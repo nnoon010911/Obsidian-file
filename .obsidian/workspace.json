@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -318,16 +318,16 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zob_config/template/插入时间模板.md",
+                "file": "00 草稿/git使用方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "插入时间模板 的出链列表"
+              "title": "git使用方法 的出链列表"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -350,15 +350,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "63c50e2c848feee5",
+  "active": "1636db925613742c",
   "lastOpenFiles": [
+    "zob_config/template/插入时间模板.md",
     "zob_config/template/草稿模板.md",
     "00 草稿/未命名.md",
     "00 草稿/git使用方法.md",
     "zob_config/template/论文模板.md",
     "zob_config/template/更新记录模板.md",
     "zob_config/template/代码备份模板.md",
-    "zob_config/template/插入时间模板.md",
     "00 草稿/对的.md",
     "zob_config/template/周记模板.md",
     "zob_config/template/知识模板.md",
