@@ -29,7 +29,6 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "zob_config/template/收件箱模板.md",
     "zob_config/template/更新记录模板.md",
     "zob_config/template/插入时间模板.md",
     "zob_config/template/论文模板.md",
