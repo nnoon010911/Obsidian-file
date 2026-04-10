@@ -128,7 +128,55 @@
             }
           },
           {
+            "id": "c4bf5efefcf5df6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zob_config/template/知识模板.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "知识模板"
+            }
+          },
+          {
             "id": "dbd44d5534e4dc3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 日记/每日/2026-04-11 Saturday.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-11 Saturday"
+            }
+          },
+          {
+            "id": "b9e1267a78fd0348",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -152,55 +200,7 @@
             }
           },
           {
-            "id": "53273ab17f3ce090",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zob_config/template/周记模板.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "周记模板"
-            }
-          },
-          {
-            "id": "e173ad7aae987c16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zob_config/README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "ff2f5cad721df3e1",
+            "id": "65bc8afc7f0fa1b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -224,12 +224,12 @@
             }
           },
           {
-            "id": "bab6e04a62517ba3",
+            "id": "d792a09ca8ebe11e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zob_config/template/插入时间模板.md",
+                "file": "zob_config/template/日记模板.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -244,11 +244,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "插入时间模板"
+              "title": "日记模板"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -331,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 日记/每日/2026-04-10 Friday.md",
+                "file": "zob_config/template/草稿模板.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +341,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-04-10 Friday 的反向链接列表"
+              "title": "草稿模板 的反向链接列表"
             }
           },
           {
@@ -365,13 +365,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 日记/每日/2026-04-10 Friday.md",
+                "file": "zob_config/template/草稿模板.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-04-10 Friday 的大纲"
+              "title": "草稿模板 的大纲"
             }
           },
           {
@@ -390,12 +390,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 日记/每日/2026-04-10 Friday.md",
+                "file": "zob_config/template/草稿模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-04-10 Friday 的出链列表"
+              "title": "草稿模板 的出链列表"
             }
           }
         ],
@@ -422,20 +422,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dbd44d5534e4dc3f",
+  "active": "65bc8afc7f0fa1b9",
   "lastOpenFiles": [
-    "zob_config/template/项目模板.md",
     "zob_config/template/日记模板.md",
     "01 日记/每日/2026-04-10 Friday.md",
-    "zob_config/template/知识模板.md",
+    "01 日记/每日/2026-04-11 Saturday.md",
+    "zob_config/template/草稿模板.md",
     "zob_config/template/周记模板.md",
-    "zob_config/README.md",
+    "zob_config/template/知识模板.md",
     "zob_config/template/写作模板.md",
+    "zob_config/template/项目模板.md",
+    "zob_config/template/插入时间模板.md",
+    "zob_config/README.md",
     "zob_config/template/论文模板.md",
     "zob_config/template/更新记录模板.md",
     "zob_config/template/代码备份模板.md",
-    "zob_config/template/插入时间模板.md",
-    "zob_config/template/草稿模板.md",
     "00 草稿/Untitled 4.md",
     "00 草稿/Untitled 3.md",
     "00 草稿/Untitled 2.md",
@@ -444,7 +445,6 @@
     "00 草稿/Untitled 1.md",
     "01 日记/每日/2026-04-21 Tuesday.md",
     "01 日记/每日/2026-04-13 Monday.md",
-    "01 日记/每日/2026-04-11 Saturday.md",
     "01 日记/每日/2026-04-14 Tuesday.md",
     "项目总览.md",
     "03 知识/未命名.canvas",

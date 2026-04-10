@@ -32,7 +32,11 @@
     "zob_config/template/更新记录模板.md",
     "zob_config/template/插入时间模板.md",
     "zob_config/template/论文模板.md",
-    "zob_config/template/知识模板.md"
+    "zob_config/template/知识模板.md",
+    "zob_config/template/草稿模板.md",
+    "zob_config/template/项目模板.md",
+    "zob_config/template/代码备份模板.md",
+    "zob_config/template/写作模板.md"
   ],
   "startup_templates": [
     ""
