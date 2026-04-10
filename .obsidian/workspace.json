@@ -174,9 +174,81 @@
               "icon": "lucide-file",
               "title": "项目模板"
             }
+          },
+          {
+            "id": "b5a147355b84c385",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zob_config/template/写作模板.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "写作模板"
+            }
+          },
+          {
+            "id": "d4882adf664c2619",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zob_config/template/知识模板.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "知识模板"
+            }
+          },
+          {
+            "id": "c674f7f7892a3c03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zob_config/template/周记模板.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "周记模板"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -259,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zob_config/template/项目模板.md",
+                "file": "zob_config/template/周记模板.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +341,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "项目模板 的反向链接列表"
+              "title": "周记模板 的反向链接列表"
             }
           },
           {
@@ -293,13 +365,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zob_config/template/项目模板.md",
+                "file": "zob_config/template/周记模板.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "项目模板 的大纲"
+              "title": "周记模板 的大纲"
             }
           },
           {
@@ -318,12 +390,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zob_config/template/项目模板.md",
+                "file": "zob_config/template/周记模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "项目模板 的出链列表"
+              "title": "周记模板 的出链列表"
             }
           }
         ],
@@ -350,8 +422,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "470d5c949ba27212",
+  "active": "c674f7f7892a3c03",
   "lastOpenFiles": [
+    "zob_config/template/知识模板.md",
+    "zob_config/template/写作模板.md",
+    "zob_config/template/项目模板.md",
     "zob_config/template/日记模板.md",
     "zob_config/template/论文模板.md",
     "zob_config/template/更新记录模板.md",
@@ -360,12 +435,9 @@
     "zob_config/template/草稿模板.md",
     "01 日记/每日/2026-04-10 Friday.md",
     "01 日记/每日/2026-04-11 Saturday.md",
-    "zob_config/template/项目模板.md",
     "00 草稿/Untitled.md",
     "01 日记/每日/2026-04-18 Saturday.md",
     "zob_config/template/周记模板.md",
-    "zob_config/template/知识模板.md",
-    "zob_config/template/写作模板.md",
     "01 日记/每日/2026-04-17 Friday.md",
     "01 日记/每日/2026-04-21 Tuesday.md",
     "zob_config/README.md",
