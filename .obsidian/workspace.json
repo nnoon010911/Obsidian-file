@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "090336743959f21c",
+        "id": "8d530a5cd8b241ca",
         "type": "tabs",
         "children": [
           {
-            "id": "b978bd212109aaa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 草稿/git使用方法.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "git使用方法"
-            }
-          },
-          {
-            "id": "df4423224f8a550e",
+            "id": "086b16b7b4d67caa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,12 +32,12 @@
             }
           },
           {
-            "id": "04c4f2336850ed82",
+            "id": "056fbbb10f8b05ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zob_config/template/论文模板.md",
+                "file": "zob_config/template/代码备份模板.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "论文模板"
+              "title": "代码备份模板"
             }
           },
           {
-            "id": "a15a01966980844e",
+            "id": "08430d380eef7b00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zob_config/template/插入时间模板.md",
+                "file": "00 草稿/草稿.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "插入时间模板"
+              "title": "草稿"
+            }
+          },
+          {
+            "id": "99a00fc2d7fc16a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zob_config/template/草稿模板.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "草稿模板"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zob_config/template/插入时间模板.md",
+                "file": "00 草稿/草稿.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "插入时间模板 的反向链接列表"
+              "title": "草稿 的反向链接列表"
             }
           },
           {
@@ -221,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zob_config/template/插入时间模板.md",
+                "file": "00 草稿/草稿.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "插入时间模板 的大纲"
+              "title": "草稿 的大纲"
             }
           },
           {
@@ -246,12 +246,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zob_config/template/插入时间模板.md",
+                "file": "00 草稿/草稿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "插入时间模板 的出链列表"
+              "title": "草稿 的出链列表"
             }
           }
         ],
@@ -278,20 +278,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a15a01966980844e",
+  "active": "08430d380eef7b00",
   "lastOpenFiles": [
-    "zob_config/template/论文模板.md",
-    "zob_config/template/更新记录模板.md",
     "zob_config/template/草稿模板.md",
-    "00 草稿/git使用方法.md",
-    "00 草稿/未命名.md",
-    "zob_config/template/日记模板.md",
-    "zob_config/template/项目模板.md",
-    "zob_config/template/写作模板.md",
-    "zob_config/template/周记模板.md",
-    "zob_config/template/知识模板.md",
+    "00 草稿/草稿.md",
     "zob_config/template/代码备份模板.md",
     "zob_config/template/插入时间模板.md",
+    "zob_config/template/更新记录模板.md",
+    "zob_config/template/周记模板.md",
+    "zob_config/template/知识模板.md",
+    "zob_config/template/写作模板.md",
+    "00 草稿/git使用方法.md",
+    "zob_config/template/论文模板.md",
+    "zob_config/template/日记模板.md",
+    "zob_config/template/项目模板.md",
     "01 日记/每日/2026-04-08 Wednesday.md",
     "03 知识/知识索引.md",
     "01 日记/每日/2026-04-10 Friday.md",
