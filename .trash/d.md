@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: 只是
 type: 知识
 tags:
   - 知识
