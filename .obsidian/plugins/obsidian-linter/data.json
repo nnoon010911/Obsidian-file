@@ -62,12 +62,12 @@
       "date-created": true,
       "date-created-key": "date created",
       "date-modified": true,
-      "date-modified-key": "date modified",
-      "format": "dddd, MMMM Do YYYY, h:mm:ss a",
+      "date-modified-key": "modify",
+      "format": "YYYY-MM-DD HH:mm:ss",
       "convert-to-utc": false,
       "date-created-source-of-truth": "file system",
       "date-modified-source-of-truth": "file system",
-      "update-on-file-contents-updated": "never"
+      "update-on-file-contents-updated": "after 5 seconds"
     },
     "yaml-title": {
       "enabled": true,
