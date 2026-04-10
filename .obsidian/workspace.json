@@ -30,8 +30,177 @@
               "icon": "lucide-file",
               "title": "更新记录模板"
             }
+          },
+          {
+            "id": "eb80718587e3a398",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zob_config/template/代码备份模板.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "代码备份模板"
+            }
+          },
+          {
+            "id": "931282d4bb7d0b73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zob_config/template/论文模板.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "论文模板"
+            }
+          },
+          {
+            "id": "5ded90e95739c1a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zob_config/template/日记模板.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "日记模板"
+            }
+          },
+          {
+            "id": "dfe830fdd297662f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zob_config/template/项目模板.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "项目模板"
+            }
+          },
+          {
+            "id": "fdd672ea636826d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zob_config/template/写作模板.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "写作模板"
+            }
+          },
+          {
+            "id": "ff2f5cad721df3e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zob_config/template/草稿模板.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "草稿模板"
+            }
+          },
+          {
+            "id": "bab6e04a62517ba3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zob_config/template/插入时间模板.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "插入时间模板"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -114,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zob_config/template/更新记录模板.md",
+                "file": "zob_config/template/写作模板.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +293,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "更新记录模板 的反向链接列表"
+              "title": "写作模板 的反向链接列表"
             }
           },
           {
@@ -148,13 +317,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zob_config/template/更新记录模板.md",
+                "file": "zob_config/template/写作模板.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "更新记录模板 的大纲"
+              "title": "写作模板 的大纲"
             }
           },
           {
@@ -173,12 +342,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zob_config/template/更新记录模板.md",
+                "file": "zob_config/template/写作模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "更新记录模板 的出链列表"
+              "title": "写作模板 的出链列表"
             }
           }
         ],
@@ -205,16 +374,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "314ed2bc45bfe742",
+  "active": "fdd672ea636826d3",
   "lastOpenFiles": [
-    "zob_config/template/代码备份模板.md",
+    "zob_config/template/项目模板.md",
     "zob_config/template/日记模板.md",
     "zob_config/template/论文模板.md",
     "zob_config/template/更新记录模板.md",
+    "zob_config/template/代码备份模板.md",
     "zob_config/template/插入时间模板.md",
-    "zob_config/template/项目模板.md",
+    "zob_config/template/草稿模板.md",
     "00 草稿/Untitled 4.md",
-    "zob_config/template/收件箱模板.md",
     "00 草稿/Untitled 3.md",
     "00 草稿/Untitled 2.md",
     "00 草稿/Untitled.md",
