@@ -56,6 +56,54 @@
             }
           },
           {
+            "id": "e70dfdccdc37053f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zob_config/template/更新记录模板.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "更新记录模板"
+            }
+          },
+          {
+            "id": "524dad11c7148d7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zob_config/template/论文模板.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "论文模板"
+            }
+          },
+          {
             "id": "cda9513c1efa6178",
             "type": "leaf",
             "state": {
@@ -80,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -222,12 +270,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zob_config/template/代码备份模板.md",
+                "file": "zob_config/template/日记模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "代码备份模板 的出链列表"
+              "title": "日记模板 的出链列表"
             }
           }
         ],
@@ -254,8 +302,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cd85987023c7a046",
+  "active": "cda9513c1efa6178",
   "lastOpenFiles": [
+    "zob_config/template/论文模板.md",
+    "zob_config/template/更新记录模板.md",
+    "zob_config/template/代码备份模板.md",
     "zob_config/template/插入时间模板.md",
     "zob_config/template/日记模板.md",
     "01 日记/每日/2026-04-10 Friday.md",
@@ -264,7 +315,6 @@
     "zob_config/template/项目模板.md",
     "01 日记/每日/2026-04-21 Tuesday.md",
     "01 日记/每日/2026-04-13 Monday.md",
-    "zob_config/template/论文模板.md",
     "01 日记/每日/2026-04-11 Saturday.md",
     "00 草稿/Untitled.md",
     "01 日记/每日/2026-04-14 Tuesday.md",
@@ -288,8 +338,6 @@
     "02 周记/2026年第15周.md",
     "05 资源",
     "03 科研/Ao Wang 2024 YOLOv10 端到端目标检测.md",
-    "03 科研/论文索引.md",
-    "04 Java/研究主线.md",
     "04 Java",
     "03 科研",
     "02 周记",
