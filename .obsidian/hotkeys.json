@@ -193,14 +193,6 @@
     }
   ],
   "file-explorer:new-file": [],
-  "templater-obsidian:zob_config/template/更新记录模板.md": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "1"
-    }
-  ],
   "workspace:goto-tab-1": [],
   "templater-obsidian:create-new-note-from-template": [
     {
@@ -216,33 +208,6 @@
         "Mod"
       ],
       "key": "N"
-    }
-  ],
-  "templater-obsidian:zob_config/template/插入时间模板.md": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "Q"
-    }
-  ],
-  "templater-obsidian:create-zob_config/template/知识模板.md": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "N"
-    }
-  ],
-  "templater-obsidian:create-zob_config/template/论文模板.md": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "A"
     }
   ],
   "editor:toggle-numbered-list": [

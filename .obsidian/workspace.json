@@ -4,82 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "049fc0ee29ae569d",
-        "type": "split",
+        "id": "21c3e868b826d226",
+        "type": "tabs",
         "children": [
           {
-            "id": "f819e56ddd1f5c1d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "03d25b082e181e9e",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "新标签页"
-                }
-              }
-            ]
-          },
-          {
-            "id": "6c0fa0f810bcbccf",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "97e19acb41c0f7e8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "00 草稿/git使用.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "git使用"
+            "id": "120af2fc0b8c961f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 知识/git使用方法.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              {
-                "id": "bddc113b1a87e5f7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "00 草稿/git使用.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "git使用"
-                }
-              }
-            ],
-            "currentTab": 1
+              "icon": "lucide-file",
+              "title": "git使用方法"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03 知识/git使用方法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "git使用方法 的反向链接列表"
             }
           },
           {
@@ -195,12 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "03 知识/git使用方法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "git使用方法 的大纲"
             }
           },
           {
@@ -219,15 +173,16 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03 知识/git使用方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "git使用方法 的出链列表"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -250,9 +205,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "03d25b082e181e9e",
+  "active": "120af2fc0b8c961f",
   "lastOpenFiles": [
+    "03 知识/git使用方法.md",
     "00 草稿/git使用.md",
+    "00 草稿/未命名.md",
     "zob_config/template/插入时间模板.md",
     "zob_config/template/代码备份模板.md",
     "zob_config/template/更新记录模板.md",
@@ -264,8 +221,6 @@
     "zob_config/template/论文模板.md",
     "zob_config/template/草稿模板.md",
     "00 草稿/为了.md",
-    "00 草稿/Untitled.md",
-    "00 草稿/未命名.md",
     "00 草稿/d.md",
     "00 草稿/未命名 2.md",
     "00 草稿/对的.md",
