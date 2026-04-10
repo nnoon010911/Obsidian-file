@@ -80,30 +80,6 @@
             }
           },
           {
-            "id": "5ded90e95739c1a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zob_config/template/日记模板.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "日记模板"
-            }
-          },
-          {
             "id": "dfe830fdd297662f",
             "type": "leaf",
             "state": {
@@ -149,6 +125,78 @@
               },
               "icon": "lucide-file",
               "title": "写作模板"
+            }
+          },
+          {
+            "id": "dbd44d5534e4dc3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 日记/每日/2026-04-10 Friday.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-10 Friday"
+            }
+          },
+          {
+            "id": "53273ab17f3ce090",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zob_config/template/周记模板.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "周记模板"
+            }
+          },
+          {
+            "id": "e173ad7aae987c16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zob_config/README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -283,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zob_config/template/写作模板.md",
+                "file": "01 日记/每日/2026-04-10 Friday.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +341,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "写作模板 的反向链接列表"
+              "title": "2026-04-10 Friday 的反向链接列表"
             }
           },
           {
@@ -317,13 +365,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zob_config/template/写作模板.md",
+                "file": "01 日记/每日/2026-04-10 Friday.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "写作模板 的大纲"
+              "title": "2026-04-10 Friday 的大纲"
             }
           },
           {
@@ -342,16 +390,16 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zob_config/template/写作模板.md",
+                "file": "01 日记/每日/2026-04-10 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "写作模板 的出链列表"
+              "title": "2026-04-10 Friday 的出链列表"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -374,10 +422,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fdd672ea636826d3",
+  "active": "dbd44d5534e4dc3f",
   "lastOpenFiles": [
     "zob_config/template/项目模板.md",
     "zob_config/template/日记模板.md",
+    "01 日记/每日/2026-04-10 Friday.md",
+    "zob_config/template/知识模板.md",
+    "zob_config/template/周记模板.md",
+    "zob_config/README.md",
+    "zob_config/template/写作模板.md",
     "zob_config/template/论文模板.md",
     "zob_config/template/更新记录模板.md",
     "zob_config/template/代码备份模板.md",
@@ -389,7 +442,6 @@
     "00 草稿/Untitled.md",
     "00 草稿/临时记录 2026-04-10.md",
     "00 草稿/Untitled 1.md",
-    "01 日记/每日/2026-04-10 Friday.md",
     "01 日记/每日/2026-04-21 Tuesday.md",
     "01 日记/每日/2026-04-13 Monday.md",
     "01 日记/每日/2026-04-11 Saturday.md",
@@ -401,12 +453,8 @@
     "每日/2026-04-10 Friday.md",
     "01 日记/每周",
     "02 科研/论文索引.md",
-    "02 科研/Ao Wang 2024 YOLOv10 端到端目标检测.md",
     "02 科研",
-    "03 知识/知识索引.md",
-    "03 知识/YOLO11 改进方向.md",
     "03 知识",
-    "04 Java/研究主线.md",
     "04 Java",
     "每日",
     "05 资源",
