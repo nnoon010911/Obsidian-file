@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2b2fae48bdfec580",
+        "id": "0b14365b758c4bba",
         "type": "tabs",
         "children": [
           {
-            "id": "352ab00643193aaf",
+            "id": "aaf98b521026d621",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zob_config/template/草稿模板.md",
+                "file": "00 草稿/git使用方法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,227 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "草稿模板"
+              "title": "git使用方法"
             }
           },
           {
-            "id": "46f8576ed521b769",
+            "id": "7d592382c65c6dc3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zob_config/template/插入时间模板.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "插入时间模板"
-            }
-          },
-          {
-            "id": "559b9d0d92d04c08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zob_config/template/代码备份模板.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "代码备份模板"
-            }
-          },
-          {
-            "id": "add0e183fdc94d9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zob_config/template/更新记录模板.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "更新记录模板"
-            }
-          },
-          {
-            "id": "be82bf07c8b273ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zob_config/template/论文模板.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "论文模板"
-            }
-          },
-          {
-            "id": "212b3c4b63797e8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zob_config/template/日记模板.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "日记模板"
-            }
-          },
-          {
-            "id": "470d5c949ba27212",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zob_config/template/项目模板.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "项目模板"
-            }
-          },
-          {
-            "id": "b5a147355b84c385",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zob_config/template/写作模板.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "写作模板"
-            }
-          },
-          {
-            "id": "d4882adf664c2619",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zob_config/template/知识模板.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "知识模板"
-            }
-          },
-          {
-            "id": "c674f7f7892a3c03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zob_config/template/周记模板.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "周记模板"
+              "title": "新标签页"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -422,22 +216,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c674f7f7892a3c03",
+  "active": "7d592382c65c6dc3",
   "lastOpenFiles": [
+    "00 草稿/git使用方法.md",
+    "zob_config/template/插入时间模板.md",
+    "zob_config/template/草稿模板.md",
+    "zob_config/template/代码备份模板.md",
+    "zob_config/template/更新记录模板.md",
+    "03 知识/知识索引.md",
     "zob_config/template/知识模板.md",
+    "zob_config/template/周记模板.md",
     "zob_config/template/写作模板.md",
     "zob_config/template/项目模板.md",
     "zob_config/template/日记模板.md",
     "zob_config/template/论文模板.md",
-    "zob_config/template/更新记录模板.md",
-    "zob_config/template/代码备份模板.md",
-    "zob_config/template/插入时间模板.md",
-    "zob_config/template/草稿模板.md",
     "01 日记/每日/2026-04-10 Friday.md",
     "01 日记/每日/2026-04-11 Saturday.md",
-    "00 草稿/Untitled.md",
     "01 日记/每日/2026-04-18 Saturday.md",
-    "zob_config/template/周记模板.md",
     "01 日记/每日/2026-04-17 Friday.md",
     "01 日记/每日/2026-04-21 Tuesday.md",
     "zob_config/README.md",
@@ -450,7 +245,6 @@
     "01 日记/每日/2026-04-14 Tuesday.md",
     "项目总览.md",
     "03 知识/未命名.canvas",
-    "01 日记/每周/2026年第16周.md",
     "01 日记/每日",
     "01 日记/每周",
     "02 科研",
