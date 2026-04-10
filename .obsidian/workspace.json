@@ -1,0 +1,393 @@
+{
+  "main": {
+    "id": "1d217e7c8ebc82c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "966920843ae1670a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6876da0f0f84cf11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 草稿/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "27db7a47b1b54ff4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zob_config/template/论文模板.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "论文模板"
+            }
+          },
+          {
+            "id": "ea011d7598012fab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zob_config/template/日记模板.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "日记模板"
+            }
+          },
+          {
+            "id": "5f04cbba1d28d0c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 草稿/临时记录 2026-04-10.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "临时记录 2026-04-10"
+            }
+          },
+          {
+            "id": "17d4dad3bcd003e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zob_config/template/收件箱模板.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "收件箱模板"
+            }
+          },
+          {
+            "id": "03eab3d4ad0243d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zob_config/template/项目模板.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "项目模板"
+            }
+          },
+          {
+            "id": "ab6234940a635980",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 日记/每日/2026-04-14 Tuesday.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-14 Tuesday"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "baccf50089750d16",
+    "type": "split",
+    "children": [
+      {
+        "id": "90e5078c22fed6b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35a3bb6b8d12a20d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ee471109b668cf63",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#论文",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6a4d65ca038bc631",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "24b878aaa37d42bd",
+            "type": "leaf",
+            "state": {
+              "type": "vertical-tabs",
+              "state": {},
+              "icon": "gallery-vertical",
+              "title": "Vertical tabs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "right": {
+    "id": "d2feb8cda59d7cce",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5cc5dab4e2ab53c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bd5ce48214745c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 草稿/Untitled.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Untitled 的反向链接列表"
+            }
+          },
+          {
+            "id": "c7c17049f2d9fcfb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "402e579f598fa097",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 草稿/Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Untitled 的大纲"
+            }
+          },
+          {
+            "id": "d6cbe851377d2647",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "280e2bedfdb1fc58",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 草稿/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Untitled 的出链列表"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "bases:新建数据库": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "canvas:新建白板": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "35a3bb6b8d12a20d",
+  "lastOpenFiles": [
+    "00 草稿/临时记录 2026-04-10.md",
+    "zob_config/template/日记模板.md",
+    "zob_config/template/项目模板.md",
+    "zob_config/template/收件箱模板.md",
+    "zob_config/template/论文模板.md",
+    "00 草稿/Untitled.md",
+    "01 日记/每日/2026-04-14 Tuesday.md",
+    "项目总览.md",
+    "03 知识/未命名.canvas",
+    "01 日记/每周/2026年第16周.md",
+    "01 日记/每日",
+    "每日/2026-04-10 Friday.md",
+    "01 日记/每周",
+    "02 科研/论文索引.md",
+    "02 科研/Ao Wang 2024 YOLOv10 端到端目标检测.md",
+    "02 科研",
+    "03 知识/知识索引.md",
+    "03 知识/YOLO11 改进方向.md",
+    "03 知识",
+    "04 Java/研究主线.md",
+    "04 Java/YOLO11 改进主线.md",
+    "04 Java/技术学习主线.md",
+    "04 Java",
+    "每日",
+    "02 周记/2026年第15周.md",
+    "05 资源",
+    "03 科研/Ao Wang 2024 YOLOv10 端到端目标检测.md",
+    "03 科研/论文索引.md",
+    "04 Java/研究主线.md",
+    "zob_config/README.md",
+    "zob_config/js/thoughts_search_dataviewjs.md",
+    "01 日记/每日/2026-04-09 Thursday.md",
+    "04 Java/YOLO11 改进主线.md",
+    "04 Java/技术学习主线.md",
+    "04 Java",
+    "03 科研",
+    "02 周记",
+    "未命名.canvas"
+  ]
+}

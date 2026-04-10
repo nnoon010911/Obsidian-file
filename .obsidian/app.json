@@ -1,0 +1,20 @@
+{
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 草稿",
+  "showInlineTitle": true,
+  "spellcheck": false,
+  "showLineNumber": true,
+  "trashOption": "local",
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "05 资源",
+  "vimMode": false
+}
