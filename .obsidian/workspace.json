@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "966920843ae1670a",
+        "id": "8423b6c7ce140660",
         "type": "tabs",
         "children": [
           {
-            "id": "27db7a47b1b54ff4",
+            "id": "fefe2ba8ac22997e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zob_config/template/论文模板.md",
+                "file": "zob_config/template/插入时间模板.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "论文模板"
+              "title": "插入时间模板"
             }
           },
           {
-            "id": "48695da622b41f75",
+            "id": "cd85987023c7a046",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 日记/每日/2026-04-21 Tuesday.md",
+                "file": "zob_config/template/代码备份模板.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-21 Tuesday"
+              "title": "代码备份模板"
             }
           },
           {
-            "id": "ea011d7598012fab",
+            "id": "cda9513c1efa6178",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,102 +77,6 @@
               },
               "icon": "lucide-file",
               "title": "日记模板"
-            }
-          },
-          {
-            "id": "5f04cbba1d28d0c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 草稿/临时记录 2026-04-10.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "临时记录 2026-04-10"
-            }
-          },
-          {
-            "id": "17d4dad3bcd003e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zob_config/template/收件箱模板.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "收件箱模板"
-            }
-          },
-          {
-            "id": "03eab3d4ad0243d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zob_config/template/项目模板.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "项目模板"
-            }
-          },
-          {
-            "id": "ab6234940a635980",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 日记/每日/2026-04-14 Tuesday.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-14 Tuesday"
             }
           }
         ],
@@ -318,12 +222,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 日记/每日/2026-04-21 Tuesday.md",
+                "file": "zob_config/template/代码备份模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-04-21 Tuesday 的出链列表"
+              "title": "代码备份模板 的出链列表"
             }
           }
         ],
@@ -350,17 +254,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "48695da622b41f75",
+  "active": "cd85987023c7a046",
   "lastOpenFiles": [
+    "zob_config/template/插入时间模板.md",
+    "zob_config/template/日记模板.md",
     "01 日记/每日/2026-04-10 Friday.md",
+    "00 草稿/临时记录 2026-04-10.md",
+    "zob_config/template/收件箱模板.md",
+    "zob_config/template/项目模板.md",
     "01 日记/每日/2026-04-21 Tuesday.md",
+    "01 日记/每日/2026-04-13 Monday.md",
     "zob_config/template/论文模板.md",
     "01 日记/每日/2026-04-11 Saturday.md",
     "00 草稿/Untitled.md",
-    "00 草稿/临时记录 2026-04-10.md",
-    "zob_config/template/日记模板.md",
-    "zob_config/template/项目模板.md",
-    "zob_config/template/收件箱模板.md",
     "01 日记/每日/2026-04-14 Tuesday.md",
     "项目总览.md",
     "03 知识/未命名.canvas",
@@ -384,8 +290,6 @@
     "03 科研/Ao Wang 2024 YOLOv10 端到端目标检测.md",
     "03 科研/论文索引.md",
     "04 Java/研究主线.md",
-    "zob_config/README.md",
-    "zob_config/js/thoughts_search_dataviewjs.md",
     "04 Java",
     "03 科研",
     "02 周记",
