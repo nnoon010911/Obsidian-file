@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 日记/每日/2026-04-10 Friday.md",
+                "file": "01 日记/每日/2026-04-21 Tuesday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-10 Friday"
+              "title": "2026-04-21 Tuesday"
             }
           },
           {
@@ -318,12 +318,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 日记/每日/2026-04-10 Friday.md",
+                "file": "01 日记/每日/2026-04-21 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-04-10 Friday 的出链列表"
+              "title": "2026-04-21 Tuesday 的出链列表"
             }
           }
         ],
@@ -352,9 +352,10 @@
   },
   "active": "48695da622b41f75",
   "lastOpenFiles": [
+    "01 日记/每日/2026-04-10 Friday.md",
+    "01 日记/每日/2026-04-21 Tuesday.md",
     "zob_config/template/论文模板.md",
     "01 日记/每日/2026-04-11 Saturday.md",
-    "01 日记/每日/2026-04-10 Friday.md",
     "00 草稿/Untitled.md",
     "00 草稿/临时记录 2026-04-10.md",
     "zob_config/template/日记模板.md",
@@ -385,7 +386,6 @@
     "04 Java/研究主线.md",
     "zob_config/README.md",
     "zob_config/js/thoughts_search_dataviewjs.md",
-    "01 日记/每日/2026-04-09 Thursday.md",
     "04 Java",
     "03 科研",
     "02 周记",
