@@ -151,8 +151,7 @@
               "title": "草稿模板"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,16 +203,6 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
-          },
-          {
-            "id": "24b878aaa37d42bd",
-            "type": "leaf",
-            "state": {
-              "type": "vertical-tabs",
-              "state": {},
-              "icon": "gallery-vertical",
-              "title": "Vertical tabs"
-            }
           }
         ]
       }
@@ -235,6 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03 知识/git使用方法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +234,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "git使用方法 的反向链接列表"
             }
           },
           {
@@ -268,12 +258,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "03 知识/git使用方法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "git使用方法 的大纲"
             }
           },
           {
@@ -292,11 +283,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03 知识/git使用方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "git使用方法 的出链列表"
             }
           }
         ],
@@ -362,8 +354,10 @@
       }
     ]
   },
-  "active": "212181e3f9b20970",
+  "active": "35a3bb6b8d12a20d",
   "lastOpenFiles": [
+    "04 Java/技术学习主线.md",
+    "03 知识/git使用方法.md",
     "02 科研/Ao Wang 2024 YOLOv10 端到端目标检测.md",
     "02 科研/论文索引.md",
     "05 资源/论文索引-1.png",
@@ -376,10 +370,8 @@
     "zob_config/template/插入时间模板.md",
     "zob_config/template/草稿模板.md",
     "04 Java/研究主线.md",
-    "04 Java/技术学习主线.md",
     "05 资源/01.png",
     "05 资源/bc4b257bf84e9e42e51fb843bde7cf88.jpg",
-    "03 知识/git使用方法.md",
     "00 草稿/Untitled.md",
     "00 草稿/未命名 1.md",
     "01 日记/每日/2026-04-10 Friday.md",
