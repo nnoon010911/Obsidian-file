@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "01 日记/每日/2026-04-11 Saturday.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-11 Saturday"
+            }
+          },
+          {
+            "id": "e8511226f718274f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "01 日记/每日/2026-04-10 Friday.md",
                 "mode": "source",
                 "source": false,
@@ -55,7 +79,8 @@
               "title": "未命名"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 知识/git使用方法.md",
+                "file": "01 日记/每日/2026-04-10 Friday.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "git使用方法 的反向链接列表"
+              "title": "2026-04-10 Friday 的反向链接列表"
             }
           },
           {
@@ -206,7 +231,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -229,8 +254,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "35a3bb6b8d12a20d",
+  "active": "e8511226f718274f",
   "lastOpenFiles": [
+    "01 日记/每日/2026-04-11 Saturday.md",
     "01 日记/每日/2026-04-10 Friday.md",
     "03 知识/git使用方法.md",
     "00 草稿/未命名.md",
@@ -252,7 +278,6 @@
     "00 草稿/未命名 2.md",
     "00 草稿/对的.md",
     "03 知识/知识索引.md",
-    "01 日记/每日/2026-04-11 Saturday.md",
     "01 日记/每日/2026-04-18 Saturday.md",
     "01 日记/每日/2026-04-17 Friday.md",
     "01 日记/每日/2026-04-21 Tuesday.md",
