@@ -279,8 +279,7 @@
   "foldersToIgnore": [
     "zob_config",
     "Excalidraw",
-    "zob_source",
-    "kanban"
+    "zob_source"
   ],
   "filesToIgnore": [
     {

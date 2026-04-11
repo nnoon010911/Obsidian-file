@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "0c38f7dbd80ce789",
+            "id": "78567fc3ea9efaff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,6 +53,54 @@
               },
               "icon": "lucide-file",
               "title": "2026-04-11 Saturday"
+            }
+          },
+          {
+            "id": "695a297282c7e394",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 知识/git使用方法.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "git使用方法"
+            }
+          },
+          {
+            "id": "0c38f7dbd80ce789",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 草稿/未命名.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           },
           {
@@ -79,7 +127,8 @@
               "title": "日记模板"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 日记/每日/2026-04-10 Friday.md",
+                "file": "00 草稿/未命名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +211,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-04-10 Friday 的反向链接列表"
+              "title": "未命名 的反向链接列表"
             }
           },
           {
@@ -186,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 日记/每日/2026-04-10 Friday.md",
+                "file": "00 草稿/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-04-10 Friday 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -211,12 +260,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 日记/每日/2026-04-10 Friday.md",
+                "file": "00 草稿/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-04-10 Friday 的出链列表"
+              "title": "未命名 的出链列表"
             }
           }
         ],
@@ -286,12 +335,13 @@
       }
     ]
   },
-  "active": "b5b838428cf2328e",
+  "active": "0c38f7dbd80ce789",
   "lastOpenFiles": [
+    "03 知识/git使用方法.md",
     "01 日记/每日/2026-04-11 Saturday.md",
-    "zob_config/template/日记模板.md",
     "01 日记/每日/2026-04-10 Friday.md",
     "00 草稿/未命名.md",
+    "zob_config/template/日记模板.md",
     "01 日记/每日/2026-04-06 Monday.md",
     "00 草稿/未命名.base",
     "00 草稿/未命名.canvas",
@@ -306,7 +356,6 @@
     "00 草稿/Untitled Kanban.md",
     "Excalidraw",
     "zob_config/js/thoughts_search_dataviewjs.md",
-    "03 知识/git使用方法.md",
     "04 Java/技术学习主线.md",
     "02 科研/Ao Wang 2024 YOLOv10 端到端目标检测.md",
     "02 科研/论文索引.md",
