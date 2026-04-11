@@ -76,7 +76,7 @@
                         "platforms": {
                           "win32": true
                         },
-                        "pythonExecutable": "python3",
+                        "pythonExecutable": "C:\\Users\\ZJH1\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
                         "restoreHistory": false,
                         "rightClickAction": "copyPaste",
                         "successExitCodes": [
@@ -116,7 +116,7 @@
                         "platforms": {
                           "win32": true
                         },
-                        "pythonExecutable": "python3",
+                        "pythonExecutable": "C:\\Users\\ZJH1\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
                         "restoreHistory": false,
                         "rightClickAction": "copyPaste",
                         "successExitCodes": [
