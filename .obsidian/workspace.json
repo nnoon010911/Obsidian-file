@@ -97,8 +97,49 @@
                   "icon": "terminal",
                   "title": "Terminal: cmd"
                 }
+              },
+              {
+                "id": "9d82700c17cefc77",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "F:\\Projects\\Obsidian\\Vault",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "C:\\Windows\\System32\\cmd.exe",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "win32": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: cmd"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -258,7 +299,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d6cbe851377d2647",
+  "active": "9d82700c17cefc77",
   "lastOpenFiles": [
     "01 日记/每日/2026-04-10 Friday.md",
     "00 草稿/未命名.canvas",
