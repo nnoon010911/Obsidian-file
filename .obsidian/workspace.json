@@ -268,13 +268,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 科研/论文索引.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "论文索引 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -324,8 +323,49 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "35a3bb6b8d12a20d",
+  "floating": {
+    "id": "a649d143849aa74b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "58a8a787f6372cd4",
+        "type": "window",
+        "children": [
+          {
+            "id": "123bd17553a86471",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "212181e3f9b20970",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://momentjs.com/docs/#/displaying/format/",
+                    "title": "Moment.js | Docs",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Moment.js | Docs"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 125,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "212181e3f9b20970",
   "lastOpenFiles": [
+    "02 科研/Ao Wang 2024 YOLOv10 端到端目标检测.md",
+    "02 科研/论文索引.md",
     "05 资源/论文索引-1.png",
     "05 资源/论文索引.png",
     "00 草稿/未命名.md",
@@ -337,7 +377,6 @@
     "zob_config/template/草稿模板.md",
     "04 Java/研究主线.md",
     "04 Java/技术学习主线.md",
-    "02 科研/Ao Wang 2024 YOLOv10 端到端目标检测.md",
     "05 资源/01.png",
     "05 资源/bc4b257bf84e9e42e51fb843bde7cf88.jpg",
     "03 知识/git使用方法.md",

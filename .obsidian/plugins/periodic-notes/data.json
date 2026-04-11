@@ -18,7 +18,7 @@
     "format": "YYYY-MM",
     "template": "",
     "folder": "日记",
-    "enabled": true
+    "enabled": false
   },
   "quarterly": {
     "format": "YYYY-[季度]Q",
