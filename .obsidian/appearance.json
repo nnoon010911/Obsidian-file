@@ -1,6 +1,6 @@
 {
-  "accentColor": "#abcdef",
-  "cssTheme": "Things",
+  "accentColor": "#000000",
+  "cssTheme": "Minimal",
   "showViewHeader": true,
   "nativeMenus": true,
   "theme": "moonstone",

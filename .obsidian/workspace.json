@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "21c3e868b826d226",
+        "id": "20cb7bdb1f63d917",
         "type": "tabs",
         "children": [
           {
-            "id": "a054e64d0e372071",
+            "id": "828eeb1452f55424",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 日记/每日/2026-04-11 Saturday.md",
+                "file": "03 知识/git使用方法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-11 Saturday"
-            }
-          },
-          {
-            "id": "56623e759808853c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 草稿/未命名.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "title": "git使用方法"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 草稿/未命名.md",
+                "file": "03 知识/git使用方法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
+              "title": "git使用方法 的反向链接列表"
             }
           },
           {
@@ -173,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 草稿/未命名.md",
+                "file": "03 知识/git使用方法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "git使用方法 的大纲"
             }
           },
           {
@@ -207,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -230,12 +205,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "56623e759808853c",
+  "active": "828eeb1452f55424",
   "lastOpenFiles": [
+    "00 草稿/Untitled.md",
+    "00 草稿/未命名 1.md",
+    "00 草稿/未命名.md",
     "01 日记/每日/2026-04-10 Friday.md",
     "01 日记/每日/2026-04-11 Saturday.md",
     "03 知识/git使用方法.md",
-    "00 草稿/未命名.md",
     "00 草稿/().md",
     "01 日记/每日/2026-04-08 Wednesday.md",
     "00 草稿/git使用.md",
@@ -256,8 +233,6 @@
     "03 知识/知识索引.md",
     "01 日记/每日/2026-04-18 Saturday.md",
     "01 日记/每日/2026-04-17 Friday.md",
-    "01 日记/每日/2026-04-21 Tuesday.md",
-    "zob_config/README.md",
     "03 知识/未命名.canvas",
     "01 日记/每日",
     "01 日记/每周",
