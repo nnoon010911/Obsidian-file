@@ -15,9 +15,9 @@
   "pinNewInstance": true,
   "preferredRenderer": "webgl",
   "profiles": {
-    "win32IntegratedDefault": {
+    "a940b284-afc8-4647-a54e-b0cd781f6f4f": {
       "args": [],
-      "executable": "C:\\Windows\\System32\\cmd.exe",
+      "executable": "powershell",
       "followTheme": true,
       "name": "",
       "platforms": {

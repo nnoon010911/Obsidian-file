@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8567a3a26d25deb1",
+        "id": "2f50f0005fc0bc4f",
         "type": "split",
         "children": [
           {
@@ -38,11 +38,11 @@
             ]
           },
           {
-            "id": "6895a6310fdc5ba2",
+            "id": "188a11f90631f107",
             "type": "tabs",
             "children": [
               {
-                "id": "519ab86df95495db",
+                "id": "a4346c66c0f8a414",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -53,7 +53,7 @@
                       "focus": false,
                       "profile": {
                         "args": [],
-                        "executable": "C:\\Windows\\System32\\cmd.exe",
+                        "executable": "powershell",
                         "followTheme": true,
                         "name": "",
                         "platforms": {
@@ -78,7 +78,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "终端：cmd"
+                  "title": "终端：powershell"
                 }
               }
             ]
@@ -241,7 +241,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "519ab86df95495db",
+  "active": "a4346c66c0f8a414",
   "lastOpenFiles": [
     "01 日记/每日/2026-04-10 Friday.md",
     "00 草稿/未命名.canvas",
