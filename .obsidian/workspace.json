@@ -54,6 +54,18 @@
               "icon": "lucide-file",
               "title": "未命名"
             }
+          },
+          {
+            "id": "d9b9a5c885cdc624",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "05 资源/bc4b257bf84e9e42e51fb843bde7cf88.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "bc4b257bf84e9e42e51fb843bde7cf88"
+            }
           }
         ],
         "currentTab": 1

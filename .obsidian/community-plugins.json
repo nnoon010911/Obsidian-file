@@ -9,7 +9,6 @@
   "obsidian-local-rest-api",
   "calendar",
   "periodic-notes",
-  "obsidian-image-auto-upload-plugin",
   "obsidian-paste-image-rename",
   "obsidian-export-image",
   "templater-obsidian",
@@ -25,5 +24,6 @@
   "open-in-new-tab",
   "obsidian-excalidraw-plugin",
   "obsidian-kanban",
-  "note-refactor-obsidian"
+  "note-refactor-obsidian",
+  "obsidian-image-auto-upload-plugin"
 ]
