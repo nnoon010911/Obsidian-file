@@ -21,7 +21,7 @@
     "right-sidebar",
     "mermaid"
   ],
-  "showRibbon": false,
+  "showRibbon": true,
   "textFontFamily": "思源宋体 CN,Times New Roman",
   "interfaceFontFamily": "Times New Roman",
   "baseFontSize": 18
