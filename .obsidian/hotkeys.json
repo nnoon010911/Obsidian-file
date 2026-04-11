@@ -254,15 +254,6 @@
     }
   ],
   "easy-typing-obsidian:easy-typing-toggle-comment": [],
-  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "A"
-    }
-  ],
   "note-refactor-obsidian:app:extract-selection-first-line": [],
   "obsidian-completr:completr-insert-selected-suggestion": []
 }
