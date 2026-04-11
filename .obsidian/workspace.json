@@ -30,8 +30,25 @@
               "icon": "lucide-file",
               "title": "2026-04-11 Saturday"
             }
+          },
+          {
+            "id": "14158768f4e61bff",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "00 草稿/Untitled Kanban 1.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 日记/每日/2026-04-11 Saturday.md",
+                "file": "00 草稿/Untitled Kanban 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-04-11 Saturday 的反向链接列表"
+              "title": "Untitled Kanban 1 的反向链接列表"
             }
           },
           {
@@ -138,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 日记/每日/2026-04-11 Saturday.md",
+                "file": "00 草稿/Untitled Kanban 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-04-11 Saturday 的大纲"
+              "title": "Untitled Kanban 1 的大纲"
             }
           },
           {
@@ -163,12 +180,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 日记/每日/2026-04-11 Saturday.md",
+                "file": "00 草稿/Untitled Kanban 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-04-11 Saturday 的出链列表"
+              "title": "Untitled Kanban 1 的出链列表"
             }
           }
         ],
@@ -236,11 +253,15 @@
       }
     ]
   },
-  "active": "280e2bedfdb1fc58",
+  "active": "14158768f4e61bff",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-04-11 15.33.07.excalidraw.md",
+    "00 草稿/Untitled Kanban 1.md",
+    "01 日记/每日/2026-04-11 Saturday.md",
+    "Excalidraw/Drawing 2026-04-11 15.40.03.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-11 15.39.54.excalidraw.md",
     "00 草稿/Untitled Kanban.md",
     "Excalidraw/Drawing 2026-04-11 15.33.18.excalidraw.md",
-    "Excalidraw/Drawing 2026-04-11 15.33.07.excalidraw.md",
     "Excalidraw",
     "zob_config/js/thoughts_search_dataviewjs.md",
     "03 知识/git使用方法.md",
@@ -262,7 +283,6 @@
     "00 草稿/Untitled.md",
     "00 草稿/未命名 1.md",
     "01 日记/每日/2026-04-10 Friday.md",
-    "01 日记/每日/2026-04-11 Saturday.md",
     "00 草稿/().md",
     "01 日记/每日/2026-04-08 Wednesday.md",
     "00 草稿/git使用.md",
@@ -270,9 +290,6 @@
     "zob_config/template/更新记录模板.md",
     "zob_config/template/周记模板.md",
     "zob_config/template/知识模板.md",
-    "zob_config/template/写作模板.md",
-    "zob_config/template/项目模板.md",
-    "zob_config/template/日记模板.md",
     "03 知识/未命名.canvas",
     "01 日记/每日",
     "01 日记/每周",
