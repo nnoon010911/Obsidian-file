@@ -56,6 +56,138 @@
             }
           },
           {
+            "id": "f509cdd62c6d79bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 科研/Ao Wang 2024 YOLOv10 端到端目标检测.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ao Wang 2024 YOLOv10 端到端目标检测"
+            }
+          },
+          {
+            "id": "93e424543563cc9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Java/技术学习主线.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "技术学习主线"
+            }
+          },
+          {
+            "id": "834b1f16ea5627ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Java/研究主线.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "研究主线"
+            }
+          },
+          {
+            "id": "6d07667eef60e686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zob_config/template/草稿模板.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "草稿模板"
+            }
+          },
+          {
+            "id": "ef097e1d0448768a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zob_config/template/插入时间模板.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "插入时间模板"
+            }
+          },
+          {
+            "id": "6302defe44e9afef",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "05 资源/01.png"
+              },
+              "icon": "lucide-image",
+              "title": "01"
+            }
+          },
+          {
             "id": "d9b9a5c885cdc624",
             "type": "leaf",
             "state": {
@@ -68,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -100,7 +232,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#项目",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 草稿/未命名.md",
+                "file": "zob_config/template/插入时间模板.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +293,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
+              "title": "插入时间模板 的反向链接列表"
             }
           },
           {
@@ -185,13 +317,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 草稿/未命名.md",
+                "file": "zob_config/template/插入时间模板.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "插入时间模板 的大纲"
             }
           },
           {
@@ -210,16 +342,16 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 草稿/未命名.md",
+                "file": "zob_config/template/插入时间模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "插入时间模板 的出链列表"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -242,10 +374,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "01e04c51f73e4002",
+  "active": "ef097e1d0448768a",
   "lastOpenFiles": [
-    "05 资源/bc4b257bf84e9e42e51fb843bde7cf88.jpg",
+    "zob_config/template/草稿模板.md",
+    "04 Java/研究主线.md",
+    "04 Java/技术学习主线.md",
+    "02 科研/Ao Wang 2024 YOLOv10 端到端目标检测.md",
     "00 草稿/未命名.md",
+    "05 资源/01.png",
+    "05 资源/bc4b257bf84e9e42e51fb843bde7cf88.jpg",
     "03 知识/git使用方法.md",
     "00 草稿/Untitled.md",
     "00 草稿/未命名 1.md",
@@ -263,13 +400,10 @@
     "zob_config/template/项目模板.md",
     "zob_config/template/日记模板.md",
     "zob_config/template/论文模板.md",
-    "zob_config/template/草稿模板.md",
     "00 草稿/为了.md",
     "00 草稿/d.md",
     "00 草稿/未命名 2.md",
     "00 草稿/对的.md",
-    "03 知识/知识索引.md",
-    "01 日记/每日/2026-04-18 Saturday.md",
     "03 知识/未命名.canvas",
     "01 日记/每日",
     "01 日记/每周",
