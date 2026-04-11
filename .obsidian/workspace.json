@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "e8511226f718274f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 日记/每日/2026-04-10 Friday.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-10 Friday"
-            }
-          },
-          {
             "id": "56623e759808853c",
             "type": "leaf",
             "state": {
@@ -163,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 日记/每日/2026-04-10 Friday.md",
+                "file": "00 草稿/未命名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-04-10 Friday 的反向链接列表"
+              "title": "未命名 的反向链接列表"
             }
           },
           {
@@ -197,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 日记/每日/2026-04-10 Friday.md",
+                "file": "00 草稿/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-04-10 Friday 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -254,10 +230,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e8511226f718274f",
+  "active": "56623e759808853c",
   "lastOpenFiles": [
-    "01 日记/每日/2026-04-11 Saturday.md",
     "01 日记/每日/2026-04-10 Friday.md",
+    "01 日记/每日/2026-04-11 Saturday.md",
     "03 知识/git使用方法.md",
     "00 草稿/未命名.md",
     "00 草稿/().md",
