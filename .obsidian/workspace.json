@@ -35,20 +35,31 @@
             "id": "14158768f4e61bff",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "canvas",
               "state": {
-                "file": "00 草稿/Untitled Kanban 1.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
+                "file": "00 草稿/未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 93,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban 1"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "c504795501082a82",
+            "type": "leaf",
+            "state": {
+              "type": "planner-weekly",
+              "state": {},
+              "icon": "table-2",
+              "title": "Apr, 6–Apr, 12"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 草稿/Untitled Kanban 1.md",
+                "file": "00 草稿/未命名.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Untitled Kanban 1 的反向链接列表"
+              "title": "未命名 的反向链接列表"
             }
           },
           {
@@ -155,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 草稿/Untitled Kanban 1.md",
+                "file": "00 草稿/未命名.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Untitled Kanban 1 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -180,12 +191,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 草稿/Untitled Kanban 1.md",
+                "file": "00 草稿/未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Untitled Kanban 1 的出链列表"
+              "title": "未命名 的出链列表"
+            }
+          },
+          {
+            "id": "20287dc155f90ae0",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           }
         ],
@@ -211,7 +232,9 @@
       "canvas:新建白板": false,
       "periodic-notes:Open today": false,
       "terminal:Open terminal": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
   "floating": {
@@ -253,15 +276,21 @@
       }
     ]
   },
-  "active": "14158768f4e61bff",
+  "active": "c504795501082a82",
   "lastOpenFiles": [
+    "01 日记/每日/2026-04-06 Monday.md",
+    "00 草稿/未命名.base",
+    "00 草稿/未命名.canvas",
+    "00 草稿/Untitled Kanban 2.md",
+    "Excalidraw/Drawing 2026-04-11 15.33.18.excalidraw.md",
+    "05 资源/Pasted Image 20260411154227_999.png",
+    "zob_config/README.md",
     "Excalidraw/Drawing 2026-04-11 15.33.07.excalidraw.md",
     "00 草稿/Untitled Kanban 1.md",
     "01 日记/每日/2026-04-11 Saturday.md",
     "Excalidraw/Drawing 2026-04-11 15.40.03.excalidraw.md",
     "Excalidraw/Drawing 2026-04-11 15.39.54.excalidraw.md",
     "00 草稿/Untitled Kanban.md",
-    "Excalidraw/Drawing 2026-04-11 15.33.18.excalidraw.md",
     "Excalidraw",
     "zob_config/js/thoughts_search_dataviewjs.md",
     "03 知识/git使用方法.md",
@@ -287,9 +316,6 @@
     "01 日记/每日/2026-04-08 Wednesday.md",
     "00 草稿/git使用.md",
     "zob_config/template/代码备份模板.md",
-    "zob_config/template/更新记录模板.md",
-    "zob_config/template/周记模板.md",
-    "zob_config/template/知识模板.md",
     "03 知识/未命名.canvas",
     "01 日记/每日",
     "01 日记/每周",
@@ -299,7 +325,6 @@
     "每日",
     "05 资源",
     "04 Java",
-    "03 科研",
     "未命名.canvas"
   ]
 }
