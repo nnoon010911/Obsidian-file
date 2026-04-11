@@ -1,23 +1,26 @@
 ---
 title: git使用方法
-type: 知识
 tags:
   - 知识
+modify: 2026-04-11 15:46:35
+type: 知识
 date created: 2026-04-11 04:55:15
-modify: 2026-04-11 04:55:47
 ---
+
+# git使用方法
+
 ## 一、基本使用方法
 
-Git 主要用于管理本地项目的版本，GitHub 主要用于将本地项目同步到远程仓库，实现备份、托管和后续更新。  
+Git 主要用于管理本地项目的版本，GitHub 主要用于将本地项目同步到远程仓库，实现备份、托管和后续更新。
 在实际使用过程中，最核心的操作流程是：
 
 **修改本地文件 → 添加到暂存区 → 提交本地版本 → 推送到 GitHub**
 
 常用命令如下：
 
-git status  
-git add .  
-git commit -m "本次修改说明"  
+git status
+git add .
+git commit -m "本次修改说明"
 git push
 
 其中：
@@ -29,17 +32,17 @@ git push
 
 如果是第一次上传项目到 GitHub，通常还需要先完成仓库初始化、关联远程仓库等操作，典型流程如下：
 
-git init  
-git add .  
-git commit -m "初始化项目"  
-git branch -M main   
-git remote add origin 仓库地址  
+git init
+git add .
+git commit -m "初始化项目"
+git branch -M main
+git remote add origin 仓库地址
 git push -u origin main
 
 以后项目已经建立好后，日常更新一般只需要：
 
-git add .  
-git commit -m "更新说明"  
+git add .
+git commit -m "更新说明"
 git push
 
 ---
@@ -53,7 +56,7 @@ git push
 - `Untracked files`
 - `nothing added to commit but untracked files present`
 
-这说明文件虽然存在，但还只是“未跟踪状态”，没有加入暂存区，因此无法提交。  
+这说明文件虽然存在，但还只是“未跟踪状态”，没有加入暂存区，因此无法提交。
 这个问题反映出 Git 的提交流程不能跳步，必须先 `add` 再 `commit` 。
 
 解决方法是先执行：
@@ -108,7 +111,7 @@ git push origin main
 
 解决方法是先把本地改动提交：
 
-git add .  
+git add .
 git commit -m "本地修改先保存"
 
 再继续执行：
