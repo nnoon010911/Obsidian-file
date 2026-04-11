@@ -150,57 +150,9 @@
               "icon": "lucide-file",
               "title": "草稿模板"
             }
-          },
-          {
-            "id": "ef097e1d0448768a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zob_config/template/插入时间模板.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "插入时间模板"
-            }
-          },
-          {
-            "id": "6302defe44e9afef",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "05 资源/01.png"
-              },
-              "icon": "lucide-image",
-              "title": "01"
-            }
-          },
-          {
-            "id": "d9b9a5c885cdc624",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "05 资源/bc4b257bf84e9e42e51fb843bde7cf88.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "bc4b257bf84e9e42e51fb843bde7cf88"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -283,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zob_config/template/插入时间模板.md",
+                "file": "00 草稿/未命名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +245,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "插入时间模板 的反向链接列表"
+              "title": "未命名 的反向链接列表"
             }
           },
           {
@@ -317,13 +269,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zob_config/template/插入时间模板.md",
+                "file": "00 草稿/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "插入时间模板 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -342,12 +294,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zob_config/template/插入时间模板.md",
+                "file": "00 草稿/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "插入时间模板 的出链列表"
+              "title": "未命名 的出链列表"
             }
           }
         ],
@@ -374,8 +326,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ef097e1d0448768a",
+  "active": "01e04c51f73e4002",
   "lastOpenFiles": [
+    "zob_config/template/插入时间模板.md",
     "zob_config/template/草稿模板.md",
     "04 Java/研究主线.md",
     "04 Java/技术学习主线.md",
@@ -391,7 +344,6 @@
     "00 草稿/().md",
     "01 日记/每日/2026-04-08 Wednesday.md",
     "00 草稿/git使用.md",
-    "zob_config/template/插入时间模板.md",
     "zob_config/template/代码备份模板.md",
     "zob_config/template/更新记录模板.md",
     "zob_config/template/周记模板.md",
