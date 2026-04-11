@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 610.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,7 +193,8 @@
       "obsidian-kanban:Create new board": false,
       "canvas:新建白板": false,
       "periodic-notes:Open today": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
   "floating": {
@@ -235,7 +236,7 @@
       }
     ]
   },
-  "active": "aa8e42c774bcf266",
+  "active": "280e2bedfdb1fc58",
   "lastOpenFiles": [
     "00 草稿/Untitled Kanban.md",
     "Excalidraw/Drawing 2026-04-11 15.33.18.excalidraw.md",

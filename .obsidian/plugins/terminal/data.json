@@ -161,7 +161,7 @@
       "useWin32Conhost": true
     }
   },
-  "defaultProfile": null,
+  "defaultProfile": "win32IntegratedDefault",
   "terminalOptions": {
     "documentOverride": null
   }

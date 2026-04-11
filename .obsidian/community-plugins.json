@@ -23,5 +23,6 @@
   "obsidian-excalidraw-plugin",
   "obsidian-kanban",
   "note-refactor-obsidian",
-  "terminal"
+  "terminal",
+  "obsidian-shellcommands"
 ]
