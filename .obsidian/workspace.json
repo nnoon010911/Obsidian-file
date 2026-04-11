@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -235,7 +235,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 草稿/未命名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +244,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -269,13 +268,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 草稿/未命名.md",
+                "file": "02 科研/论文索引.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "论文索引 的大纲"
             }
           },
           {
@@ -294,12 +293,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 草稿/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "出链"
             }
           }
         ],
@@ -326,9 +324,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "01e04c51f73e4002",
+  "active": "35a3bb6b8d12a20d",
   "lastOpenFiles": [
-    "05 资源/未命名-2.png",
+    "05 资源/论文索引-1.png",
+    "05 资源/论文索引.png",
+    "00 草稿/未命名.md",
+    "05 资源/nnoon.png",
+    "05 资源/nnoon.png",
     "05 资源/未命名-1.png",
     "05 资源/未命名.png",
     "zob_config/template/插入时间模板.md",
@@ -336,7 +338,6 @@
     "04 Java/研究主线.md",
     "04 Java/技术学习主线.md",
     "02 科研/Ao Wang 2024 YOLOv10 端到端目标检测.md",
-    "00 草稿/未命名.md",
     "05 资源/01.png",
     "05 资源/bc4b257bf84e9e42e51fb843bde7cf88.jpg",
     "03 知识/git使用方法.md",
