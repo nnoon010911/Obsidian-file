@@ -54,33 +54,9 @@
               "icon": "lucide-file",
               "title": "2026-04-11 Saturday"
             }
-          },
-          {
-            "id": "bd64e46bab36dcda",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-04-11 15.40.03.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-11 15.40.03.excalidraw"
-            }
-          },
-          {
-            "id": "3f07e5cfca696e19",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-04-11 21.48.38.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-11 21.48.38.excalidraw"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,11 +213,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3f07e5cfca696e19",
+  "active": "5cff704511ad0958",
   "lastOpenFiles": [
-    "05 资源/Pasted Image 20260411215014_251.png",
     "Excalidraw/Drawing 2026-04-11 15.40.03.excalidraw.md",
     "Excalidraw/Drawing 2026-04-11 21.48.38.excalidraw.md",
+    "05 资源/Pasted Image 20260411215014_251.png",
     "01 日记/每日/2026-04-11 Saturday.md",
     "01 日记/每日/2026-04-10 Friday.md",
     "zob_config/template/周记模板.md",
