@@ -4,34 +4,87 @@
     "type": "split",
     "children": [
       {
-        "id": "ccbc24f9e29abda0",
-        "type": "tabs",
+        "id": "08584f902e3d46c7",
+        "type": "split",
         "children": [
           {
-            "id": "695a297282c7e394",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 日记/每日/2026-04-10 Friday.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "ccbc24f9e29abda0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "695a297282c7e394",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01 日记/每日/2026-04-10 Friday.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2026-04-10 Friday"
                 }
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-10 Friday"
-            }
+              }
+            ]
+          },
+          {
+            "id": "a8fa0c9e16e165ea",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9e132d5a9123cf2b",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "F:\\Projects\\Obsidian\\Vault",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "C:\\Windows\\System32\\cmd.exe",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "win32": true
+                        },
+                        "pythonExecutable": "C:\\Users\\ZJH1\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "终端：Vault"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -188,16 +241,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "695a297282c7e394",
+  "active": "9e132d5a9123cf2b",
   "lastOpenFiles": [
-    "01 日记/每日/2026-04-11 Saturday.md",
     "01 日记/每日/2026-04-10 Friday.md",
+    "01 日记/每日/2026-04-11 Saturday.md",
+    "zob_config/template/周记模板.md",
+    "zob_config/template/知识模板.md",
+    "zob_config/template/写作模板.md",
+    "zob_config/template/项目模板.md",
+    "zob_config/template/日记模板.md",
+    "zob_config/template/论文模板.md",
+    "zob_config/template/更新记录模板.md",
+    "zob_config/template/代码备份模板.md",
+    "zob_config/template/插入时间模板.md",
+    "zob_config/template/草稿模板.md",
     "00 草稿/未命名.canvas",
     "03 知识/git使用方法.md",
     "03 知识/一、基本使用方法.md",
     "03 知识/二、这次实际操作中的主要问题.md",
     "00 草稿/未命名.base",
-    "zob_config/template/日记模板.md",
     "zob_config/README.md",
     "00 草稿/未命名.md",
     "01 日记/每日/2026-04-06 Monday.md",
@@ -211,22 +273,14 @@
     "00 草稿/Untitled Kanban.md",
     "Excalidraw",
     "zob_config/js/thoughts_search_dataviewjs.md",
-    "04 Java/技术学习主线.md",
-    "02 科研/Ao Wang 2024 YOLOv10 端到端目标检测.md",
-    "02 科研/论文索引.md",
     "05 资源/论文索引-1.png",
     "05 资源/论文索引.png",
     "05 资源/nnoon.png",
     "05 资源/nnoon.png",
     "05 资源/未命名-1.png",
     "05 资源/未命名.png",
-    "zob_config/template/插入时间模板.md",
-    "zob_config/template/草稿模板.md",
-    "04 Java/研究主线.md",
     "05 资源/01.png",
     "05 资源/bc4b257bf84e9e42e51fb843bde7cf88.jpg",
-    "00 草稿/Untitled.md",
-    "00 草稿/未命名 1.md",
     "03 知识/未命名.canvas",
     "01 日记/每日",
     "01 日记/每周",
