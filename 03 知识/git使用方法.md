@@ -17,10 +17,10 @@ Git 用来管理本地项目版本，GitHub 用来保存远程仓库。
 
 常用命令：
 
-git status  
-git add .  
-git commit -m "本次修改说明"  
-git push
+`git status`  
+`git add .`  
+`git commit -m "本次修改说明"`  
+`git push`
 
 含义：
 
@@ -31,22 +31,22 @@ git push
 
 如果是第一次上传项目，一般流程是：
 
-git init  
-git add .  
-git commit -m "初始化项目"  
-git branch -M main  
-git remote add origin 仓库地址  
-git push -u origin main
+`git init`  
+`git add .`  
+`git commit -m "初始化项目"`  
+`git branch -M main`  
+`git remote add origin 仓库地址`  
+`git push -u origin main`
 
 以后日常更新通常只需要：
 
-git add .  
-git commit -m "更新说明"  
-git push
+`git add .`  
+`git commit -m "更新说明"`  
+`git push`
 
 ---
 
-## 2. 这次遇到的问题
+## 2. 遇到的问题
 
 ### 问题 1：没有 `add` 就直接 `commit`
 
@@ -60,8 +60,8 @@ git push
 
 解决方法：
 
-git add .  
-git commit -m "初始化项目"
+`git add .`  
+`git commit -m "初始化项目"`
 
 ---
 
@@ -78,8 +78,8 @@ git commit -m "初始化项目"
 
 解决方法：
 
-git pull origin main --allow-unrelated-histories  
-git push origin main
+`git pull origin main --allow-unrelated-histories`  
+`git push origin main`
 
 ---
 
@@ -94,10 +94,10 @@ git push origin main
 
 解决方法：
 
-git add .  
-git commit -m "本地修改先保存"  
-git pull origin main --allow-unrelated-histories --no-rebase  
-git push origin main
+`git add .`  
+`git commit -m "本地修改先保存"`  
+`git pull origin main --allow-unrelated-histories --no-rebase`  
+`git push origin main`
 
 ---
 
@@ -115,16 +115,16 @@ Git 检测到旧文件没了，同时又出现了新文件。
 解决方法：  
 如果这些变化本来就是想保留的，就执行：
 
-git add -A  
-git commit -m "update posts"  
-git push origin main
+`git add -A`  
+`git commit -m "update posts"`  
+`git push origin main`
 
 说明：  
 `git add -A` 比 `git add .` 更适合处理“新增 + 删除 + 修改”同时存在的情况。
 
 如果是误删文件，可以恢复：
 
-git restore "source/_posts/2026-04-10 Friday. md"
+`git restore "source/_posts/2026-04-10 Friday.md"`
 
 ---
 
@@ -133,7 +133,7 @@ git restore "source/_posts/2026-04-10 Friday. md"
 现象：  
 文件名显示成类似这种形式：
 
-"source/_posts/Zotero\350\256\347\275\256. md"
+`"source/_posts/Zotero\350\256\347\275\256.md"`
 
 原因：  
 这是 Git Bash 对中文路径显示不友好，不一定是文件有问题。
@@ -154,13 +154,13 @@ GitHub 上仓库改名了，但本地仓库的远程地址还是旧的。
 
 解决方法：
 
-git remote set-url origin 新仓库地址  
-git remote -v
+`git remote set-url origin 新仓库地址`  
+`git remote -v`
 
 例如：
 
-git remote set-url origin https://github.com/nnoon010911/NNOON-Blog.git  
-git remote -v
+`git remote set-url origin https://github.com/nnoon010911/NNOON-Blog.git`  
+`git remote -v`
 
 ---
 
@@ -175,55 +175,66 @@ git remote -v
 原因：  
 本地记录的远程分支状态和 GitHub 当前状态不一致，所以 Git 拒绝直接推送。
 
+更具体地说，就是：
+
+- 远程 `main` 分支已经变化了
+- 但本地还是按旧状态去 push
+- Git 发现远程引用状态和自己预期不同，于是拒绝更新
+
+这类问题常见于：
+
+- 仓库刚改过名字
+- 本地没有先同步远程最新状态
+- 远程分支被网页端或其他操作更新过
+
 解决方法：
 
-git remote set-url origin 新仓库地址  
-git fetch origin  
-git pull --rebase origin main  
-git push origin main
+`git remote set-url origin 新仓库地址`  
+`git fetch origin`  
+`git pull --rebase origin main`  
+`git push origin main`
 
 如果 `pull --rebase` 过程中冲突，需要先解决冲突，再执行：
 
-git add .  
-git rebase --continue  
-git push origin main
+`git add .`  
+`git rebase --continue`  
+`git push origin main`
 
 ---
 
-## 3. 这次学到的几点
+### 问题 8：已经 commit 了，但 `push` 还是报 `cannot lock ref`
 
-1. Git 不能跳步骤，必须先 `add` 再 `commit`
-2. `push` 失败很多时候是因为本地落后于远程
-3. `pull` 前如果本地有改动，最好先提交保存
-4. 文件重命名时，Git 有时会显示成“删除旧文件 + 新增新文件”
-5. 中文文件名在 Git Bash 里显示奇怪，不一定真有问题
-6. GitHub 仓库改名后，本地 `origin` 也要跟着改
-7. 远程状态不一致时，要先 `fetch` 和 `pull --rebase`
+现象：  
+已经成功执行了 `git commit` ，但继续执行 `git push` 时仍然出现：
 
----
+- `remote rejected`
+- `cannot lock ref 'refs/heads/main'`
+- `is at ... but expected ...`
 
-## 4. 日常最稳的使用流程
+原因：  
+这说明问题不在本地文件有没有提交，而在于远程 `main` 分支的状态和本地记录不同步。  
+也就是说，即使本地已经 commit，只要没有先同步远程最新状态，push 仍然可能失败。
 
-平时更新项目时，比较稳妥的流程是：
+这类报错的本质是：
 
-git status  
-git add .  
-git commit -m "修改说明"  
-git pull --rebase origin main  
-git push origin main
+- 你的本地提交没有问题
+- 远程仓库也没有说你代码有问题
+- 真正的问题是远程 `main` 分支指针已经变化，而你本地还按旧记录去更新它
 
-如果涉及删除、重命名，建议用：
+最短处理方案：
 
-git add -A
+`git fetch origin`  
+`git pull --rebase origin main`  
+`git push origin main`
 
-如果怀疑仓库地址不对，先检查：
+说明：
 
-git remote -v
+- `git fetch origin` ：先抓取远程最新状态，但不直接改本地文件
+- `git pull --rebase origin main` ：把远程最新提交拉下来，再把你本地提交接到后面
+- `git push origin main` ：本地和远程对齐后再推送
 
----
+如果 `pull --rebase origin main` 报冲突，就先解决冲突，再执行：
 
-## 5. 一句总结
-
-Git 的核心不是“改完就上传”，而是：
-
-**先看状态，再暂存，再提交，再同步远程，最后推送。**
+`git add .`  
+`git rebase --continue`  
+`git push origin main`
