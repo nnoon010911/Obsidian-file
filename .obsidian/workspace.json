@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#项目",
+                "query": "tag:#Zotero各插件功能说明",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +133,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
