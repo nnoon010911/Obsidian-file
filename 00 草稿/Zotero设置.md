@@ -1,10 +1,10 @@
 ---
-title: Untitled
+title: Zotero设置
 type: 知识
 tags:
   - 知识
-date created:
-modify:
+date created: 2026-04-12 23:56:20
+modify: 2026-04-12 23:57:56
 ---
 ## 定义
 
@@ -12,7 +12,7 @@ modify:
 
 ## 适用场景
 
-
+科研论文
 
 ## 关键要点
 
