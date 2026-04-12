@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:知识",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -239,10 +239,10 @@
   },
   "active": "64eff5cffb243d02",
   "lastOpenFiles": [
-    "01 日记/每日/2026-04-12 Sunday.md",
     "01 日记/每日/2026-04-11 Saturday.md",
     "03 知识/Zotero设置.md",
     "03 知识/git使用方法.md",
+    "01 日记/每日/2026-04-12 Sunday.md",
     "01 日记/每日/2026-04-10 Friday.md",
     "Excalidraw/Drawing 2026-04-11 15.40.03.excalidraw.md",
     "Excalidraw/Drawing 2026-04-11 21.48.38.excalidraw.md",

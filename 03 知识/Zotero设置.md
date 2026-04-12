@@ -2,9 +2,9 @@
 title: Zotero设置
 type: 知识
 tags:
-  - 知识
+  - 软件
 date created: 2026-04-12 23:56:20
-modify: 2026-04-13 00:07:55
+modify: 2026-04-13 00:28:30
 ---
 ## Zotero各插件功能说明
 
