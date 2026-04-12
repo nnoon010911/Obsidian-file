@@ -55,8 +55,7 @@
               "title": "2026-04-11 Saturday"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,10 +212,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e56e652ca24c527a",
+  "active": "5cff704511ad0958",
   "lastOpenFiles": [
-    "01 日记/每日/2026-04-12 Sunday.md",
     "01 日记/每日/2026-04-11 Saturday.md",
+    "01 日记/每日/2026-04-12 Sunday.md",
     "03 知识/git使用方法.md",
     "01 日记/每日/2026-04-10 Friday.md",
     "Excalidraw/Drawing 2026-04-11 15.40.03.excalidraw.md",
