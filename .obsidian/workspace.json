@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -285,10 +285,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "80ba7fd1fa8202ba",
+  "active": "39ea388e75633010",
   "lastOpenFiles": [
-    "01 日记/每日/2026-04-10 Friday.md",
     "03 知识/git使用方法.md",
+    "01 日记/每日/2026-04-10 Friday.md",
     "01 日记/每日/2026-04-12 Sunday.md",
     "01 日记/每日/2026-04-11 Saturday.md",
     "03 知识/Zotero设置.md",
