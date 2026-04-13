@@ -37,6 +37,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "01 日记/每日/2026-04-13 Monday.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-13 Monday"
+            }
+          },
+          {
+            "id": "e6b0c7c4b6328543",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "01 日记/每日/2026-04-12 Sunday.md",
                 "mode": "source",
                 "source": false,
@@ -215,8 +239,9 @@
   },
   "active": "5cff704511ad0958",
   "lastOpenFiles": [
-    "01 日记/每日/2026-04-11 Saturday.md",
     "01 日记/每日/2026-04-12 Sunday.md",
+    "01 日记/每日/2026-04-13 Monday.md",
+    "01 日记/每日/2026-04-11 Saturday.md",
     "01 日记/每日/2026-04-10 Friday.md",
     "03 知识/git使用方法.md",
     "zob_config/template/知识模板.md",
@@ -244,7 +269,6 @@
     "Excalidraw/Drawing 2026-04-11 15.33.18.excalidraw.md",
     "05 资源/Pasted Image 20260411154227_999.png",
     "Excalidraw/Drawing 2026-04-11 15.33.07.excalidraw.md",
-    "00 草稿/Untitled Kanban 1.md",
     "Excalidraw",
     "05 资源/论文索引-1.png",
     "05 资源/论文索引.png",
