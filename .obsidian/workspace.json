@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "93652cf6f365fbc1",
+        "id": "2701a9eb88cd3687",
         "type": "tabs",
         "children": [
           {
-            "id": "e56e652ca24c527a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 日记/每日/2026-04-11 Saturday.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-11 Saturday"
-            }
-          },
-          {
-            "id": "5cff704511ad0958",
+            "id": "c4dbfc12d2716e1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,33 +30,8 @@
               "icon": "lucide-file",
               "title": "2026-04-13 Monday"
             }
-          },
-          {
-            "id": "e6b0c7c4b6328543",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 日记/每日/2026-04-12 Sunday.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-12 Sunday"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,7 +188,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5cff704511ad0958",
+  "active": "c4dbfc12d2716e1a",
   "lastOpenFiles": [
     "01 日记/每日/2026-04-12 Sunday.md",
     "01 日记/每日/2026-04-13 Monday.md",
