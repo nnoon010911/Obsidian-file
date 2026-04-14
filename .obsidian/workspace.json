@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 日记/每日/2026-04-13 Monday.md",
+                "file": "01 日记/每日/2026-04-14 Tuesday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-13 Monday"
+              "title": "2026-04-14 Tuesday"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,7 +213,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c4dbfc12d2716e1a",
+  "active": "1bd45911fa233a08",
   "lastOpenFiles": [
     "01 日记/每日/2026-04-13 Monday.md",
     "01 日记/每日/2026-04-14 Tuesday.md",
