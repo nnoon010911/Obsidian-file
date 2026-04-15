@@ -3,12 +3,13 @@ title: 2026-04-15 Wednesday
 type: 日记
 tags:
   - 日记
-date created:
-modify:
+date created: 2026-04-15 10:50:37
+modify: 2026-04-15 22:26:00
 ---
 ## 完成任务
 
-
+注册 tg
+论文图片、ai 稿
 
 ## 有待推进
 
@@ -16,8 +17,8 @@ modify:
 
 ## 生活记录
 
-
+练胸划水
 
 ## 明日计划
 
-- [ ] 
+- [ ] 写好实验章节

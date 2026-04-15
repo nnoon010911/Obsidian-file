@@ -55,7 +55,8 @@
               "title": "2026-04-15 Wednesday"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,10 +213,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "52447c6ae5ebde7b",
+  "active": "1bd45911fa233a08",
   "lastOpenFiles": [
-    "01 日记/每日/2026-04-15 Wednesday.md",
     "01 日记/每日/2026-04-14 Tuesday.md",
+    "01 日记/每日/2026-04-15 Wednesday.md",
     "01 日记/每日/2026-04-13 Monday.md",
     "03 知识/Codex安装skill和mcp.md",
     "01 日记/每日/2026-04-12 Sunday.md",
