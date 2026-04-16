@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "01 日记/每日/2026-04-15 Wednesday.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-15 Wednesday"
+            }
+          },
+          {
+            "id": "28a658a1ec550151",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "01 日记/每日/2026-04-16 Thursday.md",
                 "mode": "source",
                 "source": false,
@@ -32,12 +56,12 @@
             }
           },
           {
-            "id": "cb2118eb0bfde033",
+            "id": "75d0e69360ae8657",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 草稿/Codex 的Agents.md.md",
+                "file": "03 知识/Codex的Agents.md.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Codex 的Agents.md"
+              "title": "Codex的Agents.md"
+            }
+          },
+          {
+            "id": "43435916176c8b56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 知识/git使用方法.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "git使用方法"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,10 +261,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cb2118eb0bfde033",
+  "active": "75d0e69360ae8657",
   "lastOpenFiles": [
+    "03 知识/git使用方法.md",
+    "03 知识/Codex的Agents.md.md",
     "01 日记/每日/2026-04-16 Thursday.md",
-    "00 草稿/Codex 的Agents.md.md",
     "01 日记/每日/2026-04-15 Wednesday.md",
     "01 日记/每日/2026-04-14 Tuesday.md",
     "01 日记/每日/2026-04-13 Monday.md",
@@ -224,7 +273,6 @@
     "01 日记/每日/2026-04-12 Sunday.md",
     "01 日记/每日/2026-04-11 Saturday.md",
     "01 日记/每日/2026-04-10 Friday.md",
-    "03 知识/git使用方法.md",
     "zob_config/template/知识模板.md",
     "zob_config/template/论文模板.md",
     "03 知识/Zotero设置.md",
