@@ -3,7 +3,7 @@ title: git使用方法
 type: 知识
 tags:
   - 知识
-modify: 2026-04-16 11:49:33
+modify: 2026-04-16 11:57:02
 date created: 2026-04-11 04:55:15
 ---
 # Git 使用笔记
@@ -42,7 +42,7 @@ Git 用来管理本地项目版本，GitHub 用来保存远程仓库。
 
 `git add .`  
 `git commit -m "更新说明"`  
-`git push origin main` %% 要是不行就多试几次 git push %%
+`git push origin main` *要是不行就多试几次 git push* 
 
 ---
 
