@@ -42,7 +42,7 @@ Git 用来管理本地项目版本，GitHub 用来保存远程仓库。
 
 `git add .`  
 `git commit -m "更新说明"`  
-`git push` %% 要是不行就多试几次 %%
+`git push origin main` %% 要是不行就多试几次 git push %%
 
 ---
 
