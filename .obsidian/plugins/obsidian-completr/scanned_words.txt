@@ -12609,6 +12609,7 @@ OpenShape
 OYvB
 OuD
 OGI
+Ownership
 and
 all
 amp
@@ -20746,6 +20747,7 @@ DiffCLIP
 DETR
 DmJZ
 DevTools
+Delivery
 The
 Team
 TVM
@@ -33418,6 +33420,7 @@ Saturday
 SoO
 Sunday
 Superpowers
+Safety
 Interface
 Isomorphic
 Inference
@@ -41616,6 +41619,7 @@ ARKitScenes
 AZif
 AWeu
 ASsB
+AGENTS
 java
 jyy
 js
@@ -93565,6 +93569,7 @@ wgV
 wKx
 woU
 wdceyg
+worktree
 lab
 lightning
 latex
@@ -97632,6 +97637,7 @@ learners
 logs
 lMg
 lfH
+lint
 GPU
 GPT
 Google
@@ -105873,6 +105879,7 @@ sOd
 sWu
 swvu
 subagent
+smoke
 torch
 training
 tune
@@ -118287,6 +118294,7 @@ mxJo
 mvP
 mrpN
 mbsznzXE
+migration
 blog
 batchsize
 batch
@@ -122406,6 +122414,7 @@ bhI
 bXp
 board
 butler
+brainstorming
 is
 inference
 in
@@ -157559,6 +157568,7 @@ BlenderMVS
 Bridge
 Bthwl
 BNqqH
+Blocked
 rust
 recording
 ref
@@ -173646,6 +173656,7 @@ RegionBLIP
 RDm
 RVuS
 RzJ
+Refactor
 WiscKey
 Web
 WIFI
@@ -177710,6 +177721,7 @@ WRy
 WIZT
 Wcg
 WWUVVU
+Worktree
 Values
 VP
 Vz
@@ -204893,6 +204905,7 @@ YvH
 YbG
 YgB
 YhRn
+YAGNI
 Xg
 Xx
 XC
