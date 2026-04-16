@@ -4496,6 +4496,7 @@ competencies
 colmap
 cTHv
 cFv
+codex
 Computer
 Concepts
 ChatGpt
@@ -118295,6 +118296,7 @@ mvP
 mrpN
 mbsznzXE
 migration
+mihomo
 blog
 batchsize
 batch
