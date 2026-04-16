@@ -2,8 +2,8 @@
 title: git使用方法
 type: 知识
 tags:
-  - 知识
-modify: 2026-04-16 11:57:02
+  - 软件
+modify: 2026-04-16 23:59:19
 date created: 2026-04-11 04:55:15
 ---
 # Git 使用笔记

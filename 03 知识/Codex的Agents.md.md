@@ -2,9 +2,10 @@
 title: Codex的Agents.md
 type: 知识
 tags:
-  - 知识
+  - Codex
+  - AI
 date created: 2026-04-16 11:34:41
-modify: 2026-04-16 11:50:30
+modify: 2026-04-16 23:59:35
 ---
 # 全局 Agent 规则
 

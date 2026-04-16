@@ -4497,6 +4497,8 @@ colmap
 cTHv
 cFv
 codex
+compatible
+curl
 Computer
 Concepts
 ChatGpt
@@ -81625,6 +81627,7 @@ gUYf
 gXVd
 gIz
 goE
+gunzip
 MLsystem
 MLsys
 Mlsys
@@ -85714,6 +85717,7 @@ MiniGPT
 MSUz
 MÜ
 MJJa
+Mihomo
 JYY
 Jim
 Jina
@@ -105881,6 +105885,7 @@ sWu
 swvu
 subagent
 smoke
+socks
 torch
 training
 tune
@@ -110025,6 +110030,7 @@ taxonomy
 tmG
 tvZ
 tttT
+toml
 for
 fancy
 follow
@@ -122417,6 +122423,7 @@ bXp
 board
 butler
 brainstorming
+bashrc
 is
 inference
 in
@@ -177724,6 +177731,7 @@ WIZT
 Wcg
 WWUVVU
 Worktree
+Welcome
 Values
 VP
 Vz
@@ -185293,6 +185301,7 @@ qrcode
 questionnaires
 qBL
 qA`
+quicksort
 zsm
 zn
 zO
@@ -192996,6 +193005,7 @@ eZs
 eFo
 eOe
 eZR
+echo
 vue
 vision
 variance

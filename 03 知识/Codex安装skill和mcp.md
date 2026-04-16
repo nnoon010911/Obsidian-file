@@ -2,9 +2,10 @@
 title: Codex安装skill和mcp
 type: 知识
 tags:
-  - 知识
+  - Codex
+  - AI
 date created: 2026-04-14 23:23:01
-modify: 2026-04-14 23:24:58
+modify: 2026-04-16 23:59:45
 ---
 目前已经安装的 **Skills** 有：
 
