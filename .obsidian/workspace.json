@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 日记/每日/2026-04-19 Sunday.md",
+                "file": "01 日记/每日/2026-04-20 Monday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-19 Sunday"
+              "title": "2026-04-20 Monday"
             }
           }
         ],
@@ -215,8 +215,8 @@
   },
   "active": "28a658a1ec550151",
   "lastOpenFiles": [
-    "01 日记/每日/2026-04-20 Monday.md",
     "01 日记/每日/2026-04-19 Sunday.md",
+    "01 日记/每日/2026-04-20 Monday.md",
     "01 日记/每周/2026年第17周.md",
     "01 日记/每日/2026-04-16 Thursday.md",
     "03 知识/git使用方法.md",
