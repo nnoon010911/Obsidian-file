@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 日记/每日/2026-04-16 Thursday.md",
+                "file": "01 日记/每日/2026-04-19 Sunday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-16 Thursday"
+              "title": "2026-04-19 Sunday"
             }
           }
         ],
@@ -215,8 +215,11 @@
   },
   "active": "28a658a1ec550151",
   "lastOpenFiles": [
-    "03 知识/git使用方法.md",
+    "01 日记/每日/2026-04-20 Monday.md",
+    "01 日记/每日/2026-04-19 Sunday.md",
+    "01 日记/每周/2026年第17周.md",
     "01 日记/每日/2026-04-16 Thursday.md",
+    "03 知识/git使用方法.md",
     "03 知识/Zotero设置.md",
     "03 知识/Codex的Agents.md.md",
     "03 知识/Codex安装skill和mcp.md",
@@ -239,10 +242,7 @@
     "zob_config/template/更新记录模板.md",
     "zob_config/template/代码备份模板.md",
     "zob_config/template/插入时间模板.md",
-    "zob_config/template/草稿模板.md",
     "00 草稿/未命名.canvas",
-    "03 知识/一、基本使用方法.md",
-    "03 知识/二、这次实际操作中的主要问题.md",
     "00 草稿/未命名.base",
     "05 资源/Pasted Image 20260411154227_999.png",
     "Excalidraw",
