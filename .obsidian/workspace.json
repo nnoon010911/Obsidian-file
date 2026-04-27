@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 日记/每日/2026-04-22 Wednesday.md",
+                "file": "01 日记/每日/2026-04-27 Monday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-22 Wednesday"
+              "title": "2026-04-27 Monday"
             }
           },
           {
@@ -287,8 +287,10 @@
   },
   "active": "c9ed6c30f7824552",
   "lastOpenFiles": [
-    "01 日记/每日/2026-04-21 Tuesday.md",
+    "01 日记/每日/2026-04-28 Tuesday.md",
+    "01 日记/每日/2026-04-27 Monday.md",
     "01 日记/每日/2026-04-22 Wednesday.md",
+    "01 日记/每日/2026-04-21 Tuesday.md",
     "01 日记/每日/2026-04-20 Monday.md",
     "01 日记/每日/2026-04-19 Sunday.md",
     "01 日记/每周/2026年第17周.md",
@@ -312,8 +314,6 @@
     "zob_config/template/周记模板.md",
     "zob_config/template/写作模板.md",
     "zob_config/template/项目模板.md",
-    "zob_config/template/日记模板.md",
-    "zob_config/template/更新记录模板.md",
     "00 草稿/未命名.canvas",
     "00 草稿/未命名.base",
     "05 资源/Pasted Image 20260411154227_999.png",
