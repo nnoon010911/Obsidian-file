@@ -4499,6 +4499,7 @@ cFv
 codex
 compatible
 curl
+cloudBackendBaseUrl
 Computer
 Concepts
 ChatGpt
@@ -20751,6 +20752,7 @@ DETR
 DmJZ
 DevTools
 Delivery
+DySample
 The
 Team
 TVM
@@ -28972,6 +28974,7 @@ H`Z
 Him
 H`b
 H`R
+HTTPS
 Software
 Structure
 System
@@ -53816,6 +53819,7 @@ UymgO
 Uaj
 UYjGK
 UIiK
+UvicornWorker
 Linux
 Learning
 Large
@@ -77586,6 +77590,7 @@ Previous
 Phr
 PhrK
 PfOp
+PIL
 games
 go
 google
@@ -81628,6 +81633,7 @@ gXVd
 gIz
 goE
 gunzip
+gunicorn
 MLsystem
 MLsys
 Mlsys
@@ -97643,6 +97649,7 @@ logs
 lMg
 lfH
 lint
+localBackendBaseUrl
 GPU
 GPT
 Google
@@ -110031,6 +110038,7 @@ tmG
 tvZ
 tttT
 toml
+thumbs
 for
 fancy
 follow
@@ -118303,6 +118311,7 @@ mrpN
 mbsznzXE
 migration
 mihomo
+miniapp
 blog
 batchsize
 batch
@@ -122424,6 +122433,8 @@ board
 butler
 brainstorming
 bashrc
+backend
+backendMode
 is
 inference
 in
@@ -126563,6 +126574,8 @@ impacts
 incorporated
 institution
 ixw
+imgsz
+iou
 you
 yX
 yYX
@@ -137866,6 +137879,7 @@ FUTURE
 Friday
 FivI
 Frog
+FastAPI
 Quant
 Qa
 QR
@@ -145826,6 +145840,7 @@ hEoK
 hFjiK
 hNqD
 h`ES
+hsfpn
 up
 ucb
 universal
@@ -149704,6 +149719,8 @@ uifI
 ueO
 udE
 uNsOv
+uvicorn
+uploadFile
 kernel
 kickstart
 kdd
@@ -193006,6 +193023,7 @@ eFo
 eOe
 eZR
 echo
+exports
 vue
 vision
 variance
@@ -196811,6 +196829,7 @@ vTI
 vTM
 vEeo
 vUHwu
+venv
 debug
 design
 dead
@@ -201095,6 +201114,8 @@ doH
 dGgR
 drawio
 devtools
+dysample
+downloadFile
 Youtube
 YOLO
 Your

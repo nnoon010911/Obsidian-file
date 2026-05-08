@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7091ef542656fe0e",
+        "id": "ef5b53dfeaceead7",
         "type": "tabs",
         "children": [
           {
-            "id": "298371d2a1710fd7",
+            "id": "d77ef1d8462095a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 日记/每日/2026-05-08 Friday.md",
+                "file": "03 知识/血小板检测与计数微信小程序开发上线流程.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,127 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-08 Friday"
+              "title": "血小板检测与计数微信小程序开发上线流程"
+            }
+          },
+          {
+            "id": "8839cb2d429acca7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 知识/Codex安装skill和mcp.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Codex安装skill和mcp"
+            }
+          },
+          {
+            "id": "4be20c2f9d48b7a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 知识/Codex的Agents.md.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Codex的Agents.md"
+            }
+          },
+          {
+            "id": "ca59388e3942be23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 知识/git使用方法.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "git使用方法"
+            }
+          },
+          {
+            "id": "4fe6670e8434919c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 知识/Zotero设置.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Zotero设置"
+            }
+          },
+          {
+            "id": "7f7d48f1d44fb78c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 知识/Codex CLI + Mihomo（Clash）服务器配置.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Codex CLI + Mihomo（Clash）服务器配置"
             }
           }
         ]
@@ -188,10 +308,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "298371d2a1710fd7",
+  "active": "d77ef1d8462095a4",
   "lastOpenFiles": [
-    "01 日记/每日/2026-05-07 Thursday.md",
+    "03 知识/git使用方法.md",
+    "03 知识/Zotero设置.md",
+    "03 知识/Codex CLI + Mihomo（Clash）服务器配置.md",
+    "03 知识/Codex安装skill和mcp.md",
+    "03 知识/Codex的Agents.md.md",
+    "03 知识/血小板检测与计数微信小程序开发上线流程.md",
     "01 日记/每日/2026-05-08 Friday.md",
+    "01 日记/每日/2026-05-07 Thursday.md",
     "01 日记/每日/2026-05-06 Wednesday.md",
     "01 日记/每日/2026-04-29 Wednesday.md",
     "01 日记/每日/2026-04-30 Thursday.md",
@@ -203,11 +329,6 @@
     "01 日记/每日/2026-04-19 Sunday.md",
     "01 日记/每周/2026年第17周.md",
     "01 日记/每日/2026-04-16 Thursday.md",
-    "03 知识/git使用方法.md",
-    "03 知识/Zotero设置.md",
-    "03 知识/Codex的Agents.md.md",
-    "03 知识/Codex安装skill和mcp.md",
-    "03 知识/Codex CLI + Mihomo（Clash）服务器配置.md",
     "01 日记/每日/2026-04-15 Wednesday.md",
     "01 日记/每日/2026-04-14 Tuesday.md",
     "01 日记/每日/2026-04-13 Monday.md",
@@ -215,7 +336,6 @@
     "01 日记/每日/2026-04-11 Saturday.md",
     "01 日记/每日/2026-04-10 Friday.md",
     "zob_config/template/知识模板.md",
-    "zob_config/template/论文模板.md",
     "05 资源/Pasted Image 20260411215014_251.png",
     "00 草稿/未命名.canvas",
     "00 草稿/未命名.base",
