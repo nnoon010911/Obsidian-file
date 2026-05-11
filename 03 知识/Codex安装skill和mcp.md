@@ -24,9 +24,9 @@ modify: 2026-05-12 03:03:53
 5. **drawio-skills**  
     用于绘制流程图、结构图、示意图等 draw. io 相关任务。  
     仓库地址： `https://github.com/bahayonghang/drawio-skills`
-6. PPT Master
-   用于根据 PDF、DOCX、Markdown 等材料生成原生可编辑的 PowerPoint 文件。  
-   仓库地址： `https://github.com/hugohe3/ppt-master`
+6. **PPT Master**  
+    用于根据 PDF、DOCX、Markdown 等材料生成原生可编辑的 PowerPoint 文件。  
+    仓库地址： `https://github.com/hugohe3/ppt-master`
 
 ---
 
