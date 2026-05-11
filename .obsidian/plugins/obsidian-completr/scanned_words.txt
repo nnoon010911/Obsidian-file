@@ -105893,6 +105893,7 @@ swvu
 subagent
 smoke
 socks
+speedai
 torch
 training
 tune
