@@ -27,6 +27,9 @@ modify: 2026-05-12 03:03:53
 6. **PPT Master**  
     用于根据 PDF、DOCX、Markdown 等材料生成原生可编辑的 PowerPoint 文件。  
     仓库地址： `https://github.com/hugohe3/ppt-master`
+7. **Nature Skills**  
+    用于 Nature 风格学术写作、科研绘图、参考文献处理、论文阅读、审稿回复和论文转 PPT 等科研场景。  
+    仓库地址：`https://github.com/Yuan1z0825/nature-skills`
 
 ---
 
