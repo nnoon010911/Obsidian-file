@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 知识/CODEX PPT 制作流程.md",
+                "file": "01 日记/每日/2026-05-15 Friday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CODEX PPT 制作流程"
+              "title": "2026-05-15 Friday"
             }
           }
         ]
@@ -190,8 +190,8 @@
   },
   "active": "c0a37fec9f985ec4",
   "lastOpenFiles": [
-    "03 知识/Codex CLI + Mihomo（Clash）服务器配置.md",
     "03 知识/CODEX PPT 制作流程.md",
+    "03 知识/Codex CLI + Mihomo（Clash）服务器配置.md",
     "01 日记/每日/2026-05-14 Thursday.md",
     "03 知识/Codex安装skill和mcp.md",
     "03 知识/Codex 切换官方和 api 使用整理.md",
