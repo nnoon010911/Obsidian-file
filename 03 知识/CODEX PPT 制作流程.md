@@ -1,5 +1,5 @@
 ---
-title: CODEX PPT 制作流程
+title: Codex PPT 制作流程
 type: 知识
 tags:
   - 知识
