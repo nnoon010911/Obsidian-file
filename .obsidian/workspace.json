@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "28abf7f237e830c6",
+        "id": "b0713306f636f934",
         "type": "tabs",
         "children": [
           {
-            "id": "4deeabdec15b67be",
+            "id": "754517243ce86561",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 日记/每日/2026-05-14 Thursday.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-05-14 Thursday"
+              "title": "新标签页"
             }
           }
         ]
@@ -190,11 +176,12 @@
   },
   "active": "35a3bb6b8d12a20d",
   "lastOpenFiles": [
+    "01 日记/每日/2026-05-14 Thursday.md",
+    "03 知识/CODEX PPT 制作流程.md",
     "03 知识/Codex CLI + Mihomo（Clash）服务器配置.md",
     "03 知识/Codex安装skill和mcp.md",
     "03 知识/Codex 切换官方和 api 使用整理.md",
     "03 知识/Codex的Agents.md.md",
-    "01 日记/每日/2026-05-14 Thursday.md",
     "01 日记/每日/2026-05-15 Friday.md",
     "01 日记/每日/2026-05-13 Wednesday.md",
     "01 日记/每日/2026-05-12 Tuesday.md",
@@ -216,7 +203,6 @@
     "01 日记/每日/2026-04-21 Tuesday.md",
     "01 日记/每日/2026-04-20 Monday.md",
     "01 日记/每日/2026-04-19 Sunday.md",
-    "01 日记/每周/2026年第17周.md",
     "05 资源/Pasted Image 20260411215014_251.png",
     "00 草稿/未命名.canvas",
     "00 草稿/未命名.base",
