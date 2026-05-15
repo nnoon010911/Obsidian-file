@@ -4,7 +4,7 @@ type: 知识
 tags:
   - 知识
 date created: 2026-05-15 20:19:05
-modify: 2026-05-15 22:39:43
+modify: 2026-05-16 02:33:22
 ---
 ## 第 1 步：先准备材料
 
@@ -104,11 +104,11 @@ modify: 2026-05-15 22:39:43
 
 ---
 
-## 第 5 步：让 Codex 生成最终 PPT
+## 第 5 步：让 Codex / GPT 生成最终 PPT
 
-将毕业论文 word 文件、第 3 步生成的每页具体内容、第 4 步生成的封面图片发给 Codex。
+Codex：将毕业论文 word 文件、第 3 步生成的每页具体内容、第 4 步生成的封面图片发给 Codex。让 Codex 用 nature skill 生成可编辑的 ppt。
 
-让 Codex 用 nature skill 生成可编辑的 ppt。
+GPT：
 
 ---
 
