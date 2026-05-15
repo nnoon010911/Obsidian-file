@@ -30,81 +30,8 @@
               "icon": "lucide-file",
               "title": "2026-05-14 Thursday"
             }
-          },
-          {
-            "id": "8725d1a9b719bf9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 知识/Codex安装skill和mcp.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Codex安装skill和mcp"
-            }
-          },
-          {
-            "id": "dc47a79c849311b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 知识/Codex的Agents.md.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Codex的Agents.md"
-            }
-          },
-          {
-            "id": "35f73f1949c44305",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 知识/Codex CLI + Mihomo（Clash）服务器配置.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Codex CLI + Mihomo（Clash）服务器配置"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,10 +188,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8725d1a9b719bf9e",
+  "active": "35a3bb6b8d12a20d",
   "lastOpenFiles": [
     "03 知识/Codex CLI + Mihomo（Clash）服务器配置.md",
     "03 知识/Codex安装skill和mcp.md",
+    "03 知识/Codex 切换官方和 api 使用整理.md",
     "03 知识/Codex的Agents.md.md",
     "01 日记/每日/2026-05-14 Thursday.md",
     "01 日记/每日/2026-05-15 Friday.md",
@@ -289,7 +217,6 @@
     "01 日记/每日/2026-04-20 Monday.md",
     "01 日记/每日/2026-04-19 Sunday.md",
     "01 日记/每周/2026年第17周.md",
-    "01 日记/每日/2026-04-16 Thursday.md",
     "05 资源/Pasted Image 20260411215014_251.png",
     "00 草稿/未命名.canvas",
     "00 草稿/未命名.base",
