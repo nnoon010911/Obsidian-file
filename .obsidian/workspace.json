@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "Codex安装skill和mcp"
             }
+          },
+          {
+            "id": "1380b3579076a66e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 知识/Codex PPT 制作流程.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Codex PPT 制作流程"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,10 +237,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7cab0dce9f41977d",
+  "active": "1380b3579076a66e",
   "lastOpenFiles": [
-    "03 知识/Codex PPT 制作流程.md",
     "03 知识/Codex安装skill和mcp.md",
+    "03 知识/Codex PPT 制作流程.md",
     "01 日记/每日/2026-05-15 Friday.md",
     "03 知识/Codex 切换官方和 api 使用整理.md",
     "03 知识/Codex CLI + Mihomo（Clash）服务器配置.md",
