@@ -30,6 +30,12 @@ modify: 2026-05-12 03:03:53
 7. **Nature Skills**  
     用于 Nature 风格学术写作、科研绘图、参考文献处理、论文阅读、审稿回复和论文转 PPT 等科研场景。  
     仓库地址：`https://github.com/Yuan1z0825/nature-skills`
+7. **Guizang PPT Skill**  
+    用于生成单文件 HTML 横向翻页网页 PPT，支持杂志风、瑞士风、WebGL 背景、章节幕封、数据大字报、图片网格等演示模板。  
+    仓库地址：`https://github.com/op7418/guizang-ppt-skill`
+7. **Karpathy Skills**  
+    用于增强 Codex 的工程执行纪律，帮助 agent 在写代码、调试、重构和 review 时减少错误假设、避免过度设计、保持最小改动，并以可验证目标完成任务闭环。  
+    仓库地址：`https://github.com/multica-ai/andrej-karpathy-skills`
 
 ---
 
