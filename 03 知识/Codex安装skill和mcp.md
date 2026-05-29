@@ -36,6 +36,12 @@ modify: 2026-05-12 03:03:53
 7. **Karpathy Skills**  
     用于增强 Codex 的工程执行纪律，帮助 agent 在写代码、调试、重构和 review 时减少错误假设、避免过度设计、保持最小改动，并以可验证目标完成任务闭环。  
     仓库地址：`https://github.com/multica-ai/andrej-karpathy-skills`
+10. **Academic Research Skills**  
+    用于学术研究全流程辅助，包括研究问题收敛、深度文献调研、系统综述、论文写作、引用核查、同行评审模拟、实验规划、修订润色和投稿准备等科研场景。  
+    仓库地址：`https://github.com/Imbad0202/academic-research-skills-codex`
+11. **Slide Image to Editable PPTX**  
+     用于将 PPT 幻灯片截图、页面参考图或设计稿转换为高保真、可编辑的 PowerPoint 文件，适合复刻已有幻灯片风格、从图片恢复可编辑 PPT、制作论文汇报或展示材料。  
+     仓库地址：`https://github.com/w1163222589-coder/slide-image-to-editable-pptx`
 
 ---
 
