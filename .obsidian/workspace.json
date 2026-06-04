@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "1380b3579076a66e",
+            "id": "b0ecaf504e7c4e7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 草稿/Untitled.md",
+                "file": "01 日记/每日/2026-05-17 Sunday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "2026-05-17 Sunday"
             }
           }
         ],
@@ -213,13 +213,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1380b3579076a66e",
+  "active": "b0ecaf504e7c4e7d",
   "lastOpenFiles": [
+    "01 日记/每日/2026-05-15 Friday.md",
+    "03 知识/Codex制作组会PPT指令.md",
     "01 日记/每日/2026-05-17 Sunday.md",
-    "00 草稿/Untitled.md",
     "03 知识/Codex安装skill和mcp.md",
     "03 知识/Codex PPT 制作流程.md",
-    "01 日记/每日/2026-05-15 Friday.md",
     "03 知识/Codex 切换官方和 api 使用整理.md",
     "03 知识/Codex CLI + Mihomo（Clash）服务器配置.md",
     "01 日记/每日/2026-05-14 Thursday.md",
