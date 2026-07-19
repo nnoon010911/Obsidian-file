@@ -1,0 +1,22 @@
+[
+  {"id":"2607.02642","date":"2026-07-19","title":"GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation"},
+  {"id":"2606.16533","date":"2026-07-19","title":"Kairos: A Native World Model Stack for Physical AI"},
+  {"id":"2607.15065","date":"2026-07-19","title":"DriftWorld: Fast World Modeling through Drifting"},
+  {"id":"2607.15207","date":"2026-07-19","title":"BadWAM: When World-Action Models Dream Right but Act Wrong"},
+  {"id":"2607.14180","date":"2026-07-19","title":"RENEW: Towards Learning World Models and Repairing Model Exploitation from Preferences"},
+  {"id":"2607.15142","date":"2026-07-19","title":"Concept-Guided Spatial Regularization for World Models in Atari Pong"},
+  {"id":"2607.14182","date":"2026-07-19","title":"Semantic Audio-driven Understanding for Dynamic Humanoid Whole Body Control"},
+  {"id":"2607.15163","date":"2026-07-19","title":"Scaling Behavior Foundation Model for Humanoid Robots"},
+  {"id":"2607.15172","date":"2026-07-19","title":"AHEAD: Anticipatory Hand-Driven Teleoperation via Human Intent Prediction"},
+  {"id":"2607.14487","date":"2026-07-19","title":"MIDAS Hand: Modular low-Impedance Direct-drive Anthropomorphic Sensing Hand"},
+  {"id":"2607.14021","date":"2026-07-19","title":"Industrial Dexterity Benchmark: A Hardware-Software Benchmarking Platform for Industrial Dexterous Manipulation"},
+  {"id":"2607.14708","date":"2026-07-19","title":"Reinforcement Learning for the Full Strawberry Harvesting Process: Obstacle Separation, Detachment, and Placement"},
+  {"id":"2607.07675","date":"2026-07-19","title":"Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence"},
+  {"id":"2606.30534","date":"2026-07-19","title":"Orca: The World is in Your Mind"},
+  {"id":"2607.15278","date":"2026-07-19","title":"Hierarchical Denoising For Multi-Step Visual Reasoning"},
+  {"id":"2607.14997","date":"2026-07-19","title":"AeroAct: Action-Centered World-Action Models for Language-Conditioned Quadrotor Flight"},
+  {"id":"2607.14643","date":"2026-07-19","title":"NavCMPO: Critic-Guided MeanFlow Policy Optimization for Adaptive Navigation"},
+  {"id":"2607.14635","date":"2026-07-19","title":"Action QFormer: Structured Representation Shaping under Action Supervision in Vision-Language-Action Models"},
+  {"id":"2607.14005","date":"2026-07-19","title":"M4World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming"},
+  {"id":"2607.14990","date":"2026-07-19","title":"JADE-GS: Joint Alternating Deblurring Guided by Events in 3D Gaussian Splatting"}
+]

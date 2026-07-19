@@ -92,10 +92,10 @@ C:\Users\你的用户名\. codex\config. toml
 
 添加：
 
-model_provider = "openai_https"  
-  
-[model_providers. openai_https]  
-name = "OpenAI"  
+model_provider = "custom" 
+
+[model_providers.custom]  
+name = "custom" 
 wire_api = "responses"  
 requires_openai_auth = true  
 supports_websockets = false
@@ -105,13 +105,13 @@ supports_websockets = false
 注意：
 
 - 这相当于新建了一个自定义 provider。
-    
+  
 - 旧会话可能会暂时隐藏。
-    
+  
 - 如果移除这段配置并切回原 provider，旧会话通常还能回来。
-    
+  
 - `supports_websockets = false` 适合解决“每次固定 Reconnecting 多次”的问题。
-    
+  
 
 ---
 

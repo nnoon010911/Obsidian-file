@@ -42,6 +42,9 @@ modify: 2026-05-12 03:03:53
 11. **Slide Image to Editable PPTX**  
      用于将 PPT 幻灯片截图、页面参考图或设计稿转换为高保真、可编辑的 PowerPoint 文件，适合复刻已有幻灯片风格、从图片恢复可编辑 PPT、制作论文汇报或展示材料。  
      仓库地址：`https://github.com/w1163222589-coder/slide-image-to-editable-pptx`
+12. **PaperSpine**  
+     用于学术论文与报告写作的结构化辅助，以 motivation 为主线贯穿选题理解、材料梳理、文献研究、引用管理、段落重写、LaTeX 输出、中文翻译包生成与完整性审计等流程。  
+     仓库地址：`https://github.com/WUBING2023/PaperSpine`
 
 ---
 
