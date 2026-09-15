@@ -4,71 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c756e6bda7d83a81",
+        "id": "e54bd4e905b39695",
         "type": "tabs",
         "children": [
           {
-            "id": "e975610629748d03",
+            "id": "3a0a2d1cde4a85ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyPapers/2026-07-19-论文推荐.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-07-19-论文推荐"
-            }
-          },
-          {
-            "id": "d5e8244195a4b2d4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-04-11 15.40.03.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-11 15.40.03.excalidraw"
-            }
-          },
-          {
-            "id": "4620996dfc1e4934",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 日记/每日/2026-07-19 Sunday.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-07-19 Sunday"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -227,10 +176,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4620996dfc1e4934",
+  "active": "35a3bb6b8d12a20d",
   "lastOpenFiles": [
-    "PaperNotes/PaperNotes.md",
+    "02 科研/MinerU_markdown_202609121856571_e35f7e53-zh-CN-dual.md",
     "01 日记/每日/2026-07-19 Sunday.md",
+    "PaperNotes/PaperNotes.md",
     "Excalidraw/Drawing 2026-04-11 15.40.03.excalidraw.md",
     "DailyPapers/2026-07-19-论文推荐.md",
     "01 日记/每日/2026-05-17 Sunday.md",
@@ -255,7 +205,6 @@
     "03 知识/血小板检测与计数微信小程序开发上线流程.md",
     "01 日记/每日/2026-05-06 Wednesday.md",
     "01 日记/每日/2026-04-29 Wednesday.md",
-    "01 日记/每日/2026-04-30 Thursday.md",
     "05 资源/Pasted Image 20260411215014_251.png",
     "00 草稿/未命名.canvas",
     "00 草稿/未命名.base",
