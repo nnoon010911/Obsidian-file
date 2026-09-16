@@ -11,10 +11,12 @@
             "id": "3a0a2d1cde4a85ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "pdf",
+              "state": {
+                "file": "02 科研/CrossEarth-translation.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CrossEarth-translation"
             }
           }
         ]
@@ -125,6 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02 科研/CrossEarth-translation.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -161,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 306.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,8 +180,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "35a3bb6b8d12a20d",
+  "active": "3a0a2d1cde4a85ab",
   "lastOpenFiles": [
+    "02 科研/CrossEarth-translation.pdf",
     "02 科研/MinerU_markdown_202609121856571_e35f7e53-zh-CN-dual.md",
     "01 日记/每日/2026-07-19 Sunday.md",
     "PaperNotes/PaperNotes.md",
@@ -204,7 +209,6 @@
     "03 知识/Zotero设置.md",
     "03 知识/血小板检测与计数微信小程序开发上线流程.md",
     "01 日记/每日/2026-05-06 Wednesday.md",
-    "01 日记/每日/2026-04-29 Wednesday.md",
     "05 资源/Pasted Image 20260411215014_251.png",
     "00 草稿/未命名.canvas",
     "00 草稿/未命名.base",
